@@ -115,7 +115,7 @@
 
  <------------------------------------>
  Still having issues with your Soldat Server?
- You may contact us on Discord (Invite: http://gather.soldat.pl/Discord)
+ You may contact us on Discord (Invite: http://gather.soldat.pl/discord)
  or seek help at the 'Server Help' Board on the official Soldat Forums: https://forums.soldat.pl/index.php?board=10.0
 
  Dedicated Server Hosts:

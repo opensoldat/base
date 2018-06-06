@@ -1,6 +1,6 @@
 
  /** Soldat Dedicated Server README **\
-          - Updated 2013-05-23 -
+          - Updated 2018-06-07 -
  <------------------------------------>
 
  Before starting your server, you need to configure your settings!
@@ -29,7 +29,7 @@
   The Scripting Engine coded into the SoldatServer uses the "Pascal"
   language syntax. You may find full documentation regarding the
   functions and variables/events at the following URL:
-  >>>>  http://devs.soldat.pl/wiki/index.php?title=Server_Scripting <<<<
+  >>>>  https://wiki.soldat.pl/index.php/Category:Server_Scripting <<<<
 
   NOTE: Some basic functions will not be documented, such as:
   inttostr, trim, strtoint, etc.
@@ -115,9 +115,8 @@
 
  <------------------------------------>
  Still having issues with your Soldat Server?
- You may contact us via IRC on the Quakenet IRC Network.
- #soldat.devs @ irc.quakenet.org
+ You may contact us on Discord (Invite: http://gather.soldat.pl/Discord)
+ or seek help at the 'Server Help' Board on the official Soldat Forums: https://forums.soldat.pl/index.php?board=10.0
 
  Dedicated Server Hosts:
-  GameServerNetwork USA   http://www.gameservernetwork.com/
-  U13 USA                 http://rentals.u13.net/
+  Gentlemen & Scholar Hosting   https://gshost.us/buy/game/soldat

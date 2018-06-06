@@ -1,0 +1,23 @@
+[BOT]
+Name=John
+Color1=$00AA8791
+Color2=$00124213
+Skin_Color=$00A86A46
+Hair_Color=$00354871
+Favourite_Weapon=Desert Eagles
+Secondary_Weapon=1
+Friend=
+Accuracy=16
+Shoot_Dead=1
+Grenade_Frequency=125
+Camping=0
+OnStartUse=255
+Hair=1
+Headgear=2
+Chain=2
+Chat_Frequency=5
+Chat_Kill=Who's the man!
+Chat_Dead=Crap, man!
+Chat_Lowhealth=You suck, man!
+Chat_SeeEnemy=I'm your daddy!
+Chat_Winning=Yeah, yo momma!

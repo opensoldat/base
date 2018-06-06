@@ -1,0 +1,821 @@
+Vermoord door %s
+Je vermoordde %s
+Je pleegde zelfmoord
+Spelers over:
+Spelers over van jouw team:
+Alpha team scoort!
+%s scoort voor Alpha Team
+Bravo Team Scoort!
+%s scoort voor Bravo Team
+Je hebt de vlag!
+Gele vlag veroverd!
+%s heeft de gele vlag
+Rode vlag is terug!
+%s bracht de rode vlag terug
+Blauwe vlag terug!
+%s bracht de blauwe vlag terug
+Je hebt de blauwe vlag!
+Blauwe vlag veroverd!
+%s heeft de blauwe vlag veroverd!
+Je hebt de rode vlag!
+Rode vlag veroverd!
+%s heeft de rode vlag veroverd
+Je bracht de doelstelling terug!
+doelstelling teruggebracht!
+%s bracht de doelstelling terug!
+Je hebt de doelstelling!
+Doelstelling veroverd!
+%s veroverde de doelstelling!
+Je hebt de boog!
+%s heeft de boog!
+Vuur God Modus!
+Roofdier Modus!
+Kogelvrij Vest!
+Berserker Modus!
+Cluster granaten!
+Speelt nu...
+Speelt...
+Vermoord alles dat beweegt.
+Je krijgt een punt per moord. Als je de gele vlag draagt krijg je 2 punten. Je krijgt ook meer punten voor meer moorden.
+Tot 4 teams vechten tegen elkaar.
+Verover de vijandelijke vlag en breng hem naar je basis om te scoren.
+"First Blood" stijl. Wie de boog bezit krijgt super rambo krachten. Alleen rambo krijgt punten voor moorden.
+Het rode team krijgt 30 punten als ze de vlag veroveren. Het blauwe team krijgt 1 punt elke 5 seconden dat de vlag in hun basis is.
+Deze optie is beschikbaar nadat je je geregistreerd hebt.
+Om te registreren dien je www.soldat.pl/register in je browser in te voeren.
+Ongeregistreerde versie
+Fout bij initialiseren van 3d hardware. Je hardware ondersteunt geen DirectX 8.
+Zorg ervoor dat je de laatste video stuurprogramma's hebt. nu zal software worden gebruikt...
+Kan DirectX Grafiek niet initialiseren.
+Je moet DirectX 8 of hoger geinstalleerd hebben. 
+Probeer soldat in compitabiliteits modus te draaien.
+Fout bij initialiseren van D3DX engine.
+Fout bij het laden van textuur:
+Fout bij maken van font.
+ESC - terug naar spel
+Alpha team wint
+Bravo team wint
+Charlie team wint
+Delta team wint
+%s wint
+spel gepauseerd
+Tijd
+Spelers
+Speler:
+Moorden:
+Punten:
+Gestorven:
+Ping:
+Primaire wapen:
+Secundaire Wapen:
+herijzen in... %s
+Spelers over
+team spelers over
+Einde van de ronde...
+Je overleefde
+Selecteer team:
+Je volgt
+Je volgt
+Vrije camera
+Ping:
+een spel door
+druk op ESCAPE om door te gaan
+Kan textuur niet laden:
+Fout
+Wapen menu uit
+Wapen menu actief
+Sterf
+Vlag!
+Initializeren DirectX Grafiek.
+Waarschuwing.
+WAARSCHUWING:
+FOUT:
+Grafiek opnieuw gestart
+Start spel
+Speel mee
+Tijd over:
+seconds
+minuten
+-> stemmen op level gestart
+stemmen op level gestopt <-
+IP nummer
+niet verbannen
+Ontvangen: 
+Verzonden:
+%s krijgt een ping waarschuwing
+%s flood de server
+%s verzend teveel pakketjes
+%s verbrak de verbinding
+%s reageert niet
+Spel Server niet geregistreerd
+Proberen om opnieuw te registreren
+timeout verbinding
+Probleem met verbinding
+kan %s niet laden
+Soldat.ini - Bestand niet gevonden of verkeerde versie. probeer het spel opnieuw te installeren.
+Soldat.ini bestands fout
+Ongeregistreerde versie. Als je de spel leuk vind steun het dan A.U.B. en registreer.
+Ongeregistreerd. Je lijkt het spel veel te spelen, overweeg je te registreren.
+Geregistreerd aan:
+Welkom bij Soldat
+Terug naar menu
+Verander level
+Verwijder speler
+Verander team
+1 Team Alpha
+2 Team Bravo
+3 Team Charlie
+4 Team Delta
+<<<<
+>>>>
+Verwijder
+Verban
+Selecteer
+weergeef echte lag UIT
+weergeef echte lag AAN
+Muziek speelt...
+Muziek gepauseerd...
+Muziek gestopt...
+Bot bestand niet gevonden
+%s speelt mee
+%s speelt mee met team alpha
+%s speelt mee met team bravo
+%s speelt mee met team charlie
+%s speelt mee met team delta
+Download level
+verbannen
+toegevoegt bij afstands Admins.
+verwijderd bij afstands Admins.
+Herijs tijd is
+Herijs tijd is veranderd naar
+Maximum herijs tijd is
+Maximum herijs tijd is veranderd naar
+Huidig moord/punt/verover limiet is
+moord/punt/verover limiet veranderd naar
+Huidige bonus frequentie is
+bonus frequentie is veranderd naar
+Huidig tijdslimiet is
+Tijds limiet veranderd naar
+Huidig server wachtwoord is
+Er is nu nog geen server wachtwoord
+Server wachtwoord veranderd naar
+Huidig admin wachtwoord is
+Er is nu nog geen admin wachtwoord
+Admin wachtwoord veranderd naar
+%s speelt mee.
+Te veel bots. Verwijder er een.
+Server draait...
+Besloten server draait...
+Spel gestart.
+Geen maps gevonden
+Realistische Modus AAN
+Survival Modus AAN
+Deathmatch gestart!
+Pointmatch gestart!
+Teammatch gestart!
+Verover de vijandelijke vlag!
+Vind de Rambo boog!
+Infiltratie gestart!
+Te veel willekeurige bots. Kan ze niet allemaal laden
+(!) Jet brandstof is afhankelijk van level. dit kan meer of minder zijn.
+(!) Om je huidige wapen te houden nadat je herijst
+klik je buiten het wapen menu.
+(!) Om terugslag te vermijden dien je met enkelle of korte uitbarstingen te schieten.
+Clanmatch actief
+Spelserver niet geregistreerd
+Registreren van server bij ASE
+Besloten server optie aan. Niet mogelijk om mee te spelen.
+Vraagt toegang tot spel...
+Kan niet spelen met aangepaste animaties. Herinstalleer spel A.u.b..
+Kan niet spelen met aangepaste objecten. Herinstalleer spel A.u.b..
+Wapen en Gostek grafiek mag niet groter dan 36x36 en 12x12 zijn. Spelen via netwerk is niet mogelijk. Herinstalleer spel A.u.b. indien dit niet de bedoeling is.
+Aanvragen van doorverbonden spel...
+Einde van spel
+Spelers:
+Moord limiet:
+Punt limiet:
+Verover limiet:
+Moord limiet:
+Druk op toets of muisknop voor activatie:
+Knop ok
+Muisknop OK
+Muiswiel OK
+Naar links
+Naar rechts
+Spring
+Kruip
+Gooi granaat
+Verander wapen
+Gooi wapen
+Herlaad wapen
+Schiet
+Vlieg
+Chat
+Ga liggen
+Chat met Team
+Wapen menu
+Te veel bots
+Gelijkspel
+Aanvragen...
+DirectInput geinitialiseerd
+Lobby server reageert niet. als het niet aan jouw verbinding ligt moet je het later nogmaals proberen.
+Vraag servers aan
+Ping iedereen
+Pingen
+tijd verbannen
+Typ de tijd die de gebruiker verbannen is (in seconden). Als het permanent is dien je niets in te vullen
+%s is verwijderd.
+%s is verwijderd em verbannen voor %s minuten
+%s is permanent verbannen
+Je hebt gestemt voor een verwijdering van
+uit het spel
+je stemde voor level:
+Standaard (Laatst gebruikt)
+Nieuw profiel
+Vul naam in:
+Module niet gevonden. Herinstalleer spel A.u.b..
+(TEAM)
+Verbannen voor flooden
+Vraagt spel aan...
+%s verliet het spel
+%s verliet team alpha
+%s verliet team bravo
+%s verliet team charlie
+%s verliet team delta
+toegevoegd bij admins
+probeerde in te loggen als admin met verkeerd wachtwoord
+ping
+ms
+Gemiddelde Ping: 
+Speelt vals
+Lobby server pingt van
+Spel server toegevoegt aan lobby server op
+Spel Server toegevoegt
+Client doorverbonden van
+(ping)
+Connectie geaccepteerd...
+Connectie geaccepteer op
+Level
+Niet gevonden of kan niet gedownload worden
+Meespelen...
+Wacht om mee te spelen...
+Stem op level
+Stem voor verwijdering
+Verkeerde spel versie's. Jouw versie:
+Server Versie:
+Server wachtwoord benodigd
+Je bent verbannen van deze server
+Server is vol
+Verkeerde versie van level gedetecteerd
+Cluster Granaten!
+Server verbrak verbinding
+%s verbrak verbinding
+%s verbrak verbinding
+%s veranderd van team
+%s is verwijderd voor ping (voor 15 minuten)
+%s is verwijderd voor flooden (voor 5 minuten)
+%s is verwijderd van console
+%s is verwijderd voor 'connect cheat'
+%s is verwijderd voor mogelijk valsspelen
+%s verliet het spel
+%s wordt weggestemd
+*SERVER*
+Volgend level:
+-> Stemmen op map gestart
+-> Kies een level van het menu als je dat wilt spelen
+-> Tijd over:
+Stemmen op map gestopt <-
+Groetjes van server...
+Meespelen op server...
+Pingen van server...
+Doorverbinden naar lobby... wachten A.u.b.
+Fout: Server niet gevonden
+Fout:
+Registreren van server op
+Downloaden
+servers
+Ja
+Nee
+sec.
+Survival
+Geen
+Zeldzaam
+Weinig
+Geregeld
+vaak
+Zeer vaak
+Spel Servers:
+- Spelers:
+Tellen stemmen van levels
+Er is op geen level gestemd
+Spel server toegevoegt op ASE
+Start Spel
+Speel mee
+Opties
+Spelers
+Sluit
+Spel stijl:
+Doel:
+Moord limiet:
+Levels:
+Herhaal
+Bots:
+Survival Modus
+Realische Modus
+Willekeurige Bots:
+Bot Team:
+Alpha
+Bravo
+Charlie
+Delta
+Start spel
+Tijds Limiet:
+Spel server IP:
+Poort:
+Wachtwoord:
+Standaard: 23073
+Speel mee
+Verbreek verbinding
+Lijst met servers:
+Server Filters:
+Spelers:
+Spel type:
+Ander:
+Is besloten
+Geen wachtwoord
+Geen bots
+Survival Modus
+Realistische Modus
+Geen bonussen
+Naam
+Level
+Spelers
+Max
+Spel Type
+Ping
+Snelheid
+Besloten
+Wachtwoord
+Bots
+Herijs Type
+Bonussen
+Realistisch
+Systeem
+IP
+Poort
+BattlEye
+Vraag Servers aan
+Internet
+Lokaal
+Annuleer
+Ping iedereen
+Filters
+Spel
+Herijs tijd (seconds)
+Normaal herijzen:
+Maximum tijd in team spellen:
+Bonussen
+Frequentie (0=geen):
+Cluster
+Vest
+Wapens
+Eagles
+Mp5
+Ak74
+Steyr
+Spas 12
+Ruger
+M79
+Barret
+Minimi
+Minigun
+SOCOM
+Mes
+Kettingzaag
+LAW
+Max. aantal granaten:
+Vriendelijk vuur
+Gevoeligheid muis (%):
+Netwerk
+Connectie:
+LAN
+Internet
+Registreer in lobby server
+Maximum aantal Spelers:
+Balanceer Teams
+Spel naam:
+Spel wachtwoord:
+Visuelen
+Interface stijl:
+Speler Indicator
+Sluipschutter lijn
+Bots
+Moelijkheid:
+Achterlijk
+Makkelijk
+Normaal
+Moeilijk
+Onmogelijk
+Chat
+Geluid
+Volume Geluid(%):
+Volume Muziek(%):
+Explosie Effect
+Afstands gevechten
+Spel muziek:
+Geen
+"Bloody Soil"
+"Gore"
+"Necromancide"
+Muziek:
+Berserker
+Roofdier
+Vuur God
+Naam speler:
+Kleur speler:
+Huid:
+Blank
+Getint
+Zwart
+Haar:
+Leger
+Normaal
+Punker
+Mr.T Stijl
+Dreadlocks
+Haar:
+Op het Hoofd:
+Helm
+Hoed
+Niets
+Ketting:
+Geen
+Dog tags
+Goud
+Secondaire Wapen:
+Besturing
+Druk op knop om besturing te veranderen
+Schiet
+Vlieg
+Spring
+Naar links
+Naar rechts
+Kruip
+Ga liggen
+Gooi granaat
+Verander wapen
+Gooi wapen
+Herlaad wapen
+Chat
+Chat met team
+Wapen menu
+Welkom bij Soldat. Selecteer je profiel:
+Nieuw
+Verwijder
+Ok
+Sluit
+Lees informatie A.u.b.:
+Je hebt een ongeregistreerde versie van Soldat.
+Als je dit spel leuk vind steun het dan A.u.b. en registreer
+Om te registreren klik je io de 'REGISRATIE INFO' knop hieronder. Kijk in de handleiding van Soldat voor meer info.
+Soldat Home Page
+Soldat Handleiding
+Registratie info
+OK
+Aantal moorden tot volgend level
+Tijd dat een level gespeelt wordt
+herhaal level lijst nadat laatste level uit lijst gespeelt is
+Spel modus zonder herijzen na de dood. Iedereen herijst pas nadat er 1 speler of team overblijft.
+Realistische spel modus: Niet veel gezondheid, Als je valt gaat gezondheid omlaag, wapens hebben terugslag, je ziet alleen wat speler ziet.
+Typ het IP nummer van de server op internet of lan
+Het nummer van de poort op het internet of lan
+Indien nodig typ je hier het wachtwoord
+Verbreekt de verbinding
+Pakt de lijst met lokale of internet server
+Annuleert alle acties
+Controleert de ping tijd van alle servers in de lijst
+Gebruikt om servers te filteren
+De tijd dat het duurt tot de speler herijst na z'n dood.
+Maximum herijs tijd in Team wedstrijden. Een globale timer wordt gebruik zodat iedereen tegelijk herijst nadat deze verstreken is. De tijd wordt gebaseerd op het aantal spelers in de server.
+Maximum aantal granaten die je kunt hebben. Ook het aantal granaten in doosjes. Aantal granaten bij start = de helft van maximum aantal granaten.
+Indien aangevinkt kun je je teammaatjes doodschieten
+Vink dit aan als je via lan of alleen speelt
+Vink dit aan als je op het internet speelt
+Maximum aantal menselijke spelers op je server
+Als dit is aangevinkt zal je server geregistreerd worden in de Soldat lobby server en internet spelers zien je server in de lijst met servers
+Als dit is aangevinkt dan zullen de spelers die mee willen spelen bij het team met de minste spelers worden gezet(CTF en Infiltratie)
+Jouw server's naam, deze komt in de server's lijst
+Wachtwoord voor de server, zodat alleen spelers die het weten mee kunnen doen
+Verschillende interface stijlen. Aangepaste interfaces staan in de Soldat\Custom-Interfaces map.
+Laat een klein pijltje boven speler zien.
+Laat een lijn tussen speler en cursor zien.
+Bots praten
+Geluids effectSound wanneer een explosie dichtbij de speler raakt.
+Afstands gevechts geluiden die je hoordt als je ver weg van de actie bent
+Muziek lijst dat word afgespeeld tijdens het spel. Muziek is geplaatst in de Soldat\music map.
+Kleur shirt en helm
+Kleur broek
+standaard: Linker muisknop
+standaard: Rechter muisknop
+standaard: W
+standaard: A
+standaard: D
+standaard: S
+standaard: X
+standaard: E
+standaard: Q
+standaard: F
+standaard: R
+standaard: T
+standaard: Y
+standaard: Tab
+Allemaal
+Niet vol
+Niet leeg
+Niet vol en niet leeg
+Vriendelijk vuur is
+Vriendelijk vuur is veranderd naar
+Stempercentage is
+Stempercentage is veranderd naar
+Max aantal spelers is
+Max aantal spelers is veranderd naar
+je kunt geen lobby servers gebruiken als anti-cheat uit is
+Stationaire Geweren
+Stationaire Geweren op levels AAN/UIT
+Volledig scherm
+Dithering
+Antialisering
+Bitrate
+Vernieuwings frequentie
+Standaard
+Gemiddeld
+Hoog
+Windowed
+Sla op en sluit
+Geluids kwaliteit
+Laag
+Normaal
+Hoog
+Geluids Output Type:
+Geluids stuurprogramma Lijst:
+Deeltjes op scherm
+Maximum (standaard)
+Weinig
+Nog mider
+Kwaliteit bots
+Heel goed
+Normaal (standaard)
+Slecht
+Erg slecht
+Maak strepen achter kogels
+Maak weer effecten
+Weergeef sterfte console
+Raporteer naar bestand
+Server
+Internet connectie snelheid:
+Spel poort (standaard 23073):
+Max ping speler (ms):
+Server's welkomst berciht (max. 50 kar):
+Server link (Website of email - max. 60 kar):
+Verbind clienten nooit door (firewall met open poorten)
+Registreer server met All-Seeing Eye (ASE)
+Probleemoplossing:
+Video Compatibeliteit
+Windowed Fullscreen
+Wit scherm terwijl bonus(ATI cards)
+<UNUSED>
+Textuur Filters:
+<UNUSED>
+Punt
+Liniair (default)
+Mipmapping
+Taal:
+OK
+Speel Intro
+Clanmatch (Team kleuren zijn gebaseerd op eerste speler in team)
+Grafiek
+Geluid
+Meer
+Prestatie
+Netwerk
+DirectX werkt niet. Zorg dat je DirectX 8 of hoger geinstalleerd hebt.
+standaard
+Video instellingen worden niet ondersteunt door je systeem of hardware. Klik A.U.B. op ok en kies andere instellingen. Klik op annuleren om deze waarschuwing te negeren en instellingen op te slaan.
+Configuratie Fout
+Geen geluids output gevonden.
+Geen geluidsstuurprogramma's gevonden
+Rond polygonen af
+Kijken
+Vlammen Jet:
+%s kijkt mee
+Neemt demo op:
+Speelt demo:
+Demo gestopt
+Neemt op
+Registreer om demo's op te nemen die zo lang zijn als je wilt.
+Vink dit aan als je alleen wilt kijken
+%s kijkt niet meer mee
+Kan landschapsbestand niet vinden:
+Originele level landschappen dienen niet veranderd te worden. Herinstalleer spel A.U.B..
+Vooruitgang Modus
+Spelers zijn gelimiteerd tot secondaire wapens in het begin. Een nieuw wapen kan iedere paar moorden geselecteerd worden (Stel in met Vooruitgangs aantal). Speler verliest ook wapens als hij sterft met de zelfde regels
+Kogel tijd
+Indien aan zal een slow motion kogel tijd effect verschijnen als alle spelers bijna dood zijn.
+Stem:
+Level
+Verwijder
+F12 - JA   F11 - NEE
+Je hebt gestemd op %s
+Ke hebt gestemd om %s te verwijderen
+%s kan niet meer praten
+%s kan weer praten
+Vooruitgangs modus aan
+Downloaden... 
+Verbonden. Aanvragen bestand
+Kan bestand niet downloaden
+Je kan niet meer stemmen voor 2 minuten als je net meespeelt of gestemt hebt.
+Pak de gele vlag en probeer deze te houden zo lang als mogelijk. Het team met de vlah krijgt 1 punt elke 5 seconden.
+Hou de vlag!
+Vooruitgangs aantal:
+Het aantal moorden dat benodigd is voor een nieuw wapen in vooruitgangs modus. Ook het aantal maal sterven om een wapen te verliezen.
+Wapen modificatie geladen
+Type reden voor stem:
+Stemmer:
+Reden:
+Wapen modificatie
+Hou schietknop ingedrukt om te schieten, terwijl je kruipt of ligt
+Kan weg gegooid worden als je gooi knop inhoud
+Hou schietknop ingedrukt om te schieten, inaccuraat als je beweegt
+   Instellingen    : Verander% (huidig/standaard)
+    |-Schade       :
+    |-Munitie      :
+    |-Herlaad      :
+    |-Snelheid     :
+    |-Bink         :
+    |-Rate         :
+    |-Accuratie    :
+Sluipschutter lijn is uit op deze server
+Configuratie herladen
+Geen wapen
+Voeg Favoriet toe
+Voegt server toe aan lijst met favorieten
+Verwijder favoriet
+Verwijderd server van lijst met favorieten
+Server uses weapon mod ()
+Vermoord door admin
+Maak screenshots van score na wedstrijd
+Sponsor advertentie:
+Openen web browser...
+5 toeschouwer
+Open link in browser
+Open link nadat je het spel afmaakte
+Low Power Mode
+Desktop
+Resolutie
+standaard toetsen (worden de eerste 3 keer weergeven)
+[A]/[D] beweeg naar links/rechts
+[W]/[S]/[X] spring / kruip / lig
+[Left Mouse] Schiet!
+[Right Mouse] jet schoenen
+houdt [E] ingedrukt om granaat te gooien
+[R] herlaad wapen
+[Q] veranderd wapen / [F] gooit wapen
+[T] chat / [Y] chat met team
+Server gebruikt BattlEye anti-cheat
+BattlEye anti-cheat actief
+Kan niet laden
+BattlEye beveiligt
+%s is verwijderd wegens BattlEye overtreding
+Soldat is verborgen
+Je registratie code is incorrect of in gebruik.
+Email support@thd.vg met je datum van registratie, naam of e-mail adres gebruikt bij de registratie.
+Resolutie filters:
+Geactiveerd wapen:
+Gedeactiveerd wapen:
+Gamma
+Werkt alleen in volledig scherm
+XXX
+Start Soldat na Aflsuiten Config
+TeamSpeak Integratie
+Actionsnap (Screenshots)
+Portal
+Vlag gooien
+Inloggen
+Gebruikersnaam:
+Account aanmaken
+Wachtwoord vergeten?
+Onthou mij
+Automatisch inloggen
+Speel Offline / LAN
+Wachten op inloggen...
+Pas uw portal profiel aan
+Aan het inloggen...
+Onbekende gebruikersnaam en/of wachtwoord combinatie.
+Dit account is verbannen
+Te vaak geprobeerd om in te loggen...
+Ingelogd!
+Uw connectie is verlopen
+Uw gebruikersnaam is te kort
+Uw wachtwoord is te kort
+De server kon uw hardware-id niet controleren
+De naam "%s" is al in gebruik
+Probeer een andere naam a.u.b.
+Controle van aanmeldgegevens....
+Even wachten aub...
+De server kon uw aanmeldgegevens niet controleren
+Druk op F5 om de Screen Cap te bekijken
+Druk op F4 om de Screen Cap op te slaan
+Druk op F5 om te annuleren
+%s heeft de %s vlag laten vallen
+%s Vlag is gevallen!
+Bestand Downloads
+Bestand Voortgang:
+Totaal:
+TeamSpeak
+Geanimeerd Decor
+Probeer opnieuw in te loggen.
+Wapen:
+ % 
+Schoten:
+Geraakt:
+Vermoord (HS):
+Register soldat om deze functie te openen.
+(Bijgewerkt elke 10 seconden)
+HS = Hoofdschoten
+% = Nauwkeurigheid
+Gevoeligheid:
+Sorry, maar uw kunt niet deze soldat Anti-Cheat server binnengaan.
+Soldat's Anti-Cheat gaat niet samen met uw versie van windows.
+Om in Anti-Cheat beveiligde servers te spelen, gebruik Windows NT/2000/XP/Vista/7
+Uitloggen
+Achtergrond landschap weergeven
+De Minimale herijs tijd is
+De Minimale herijs tijd is veranderd naar
+De Minimale herijs tijd in CTF, Teammatch, Infiltration en HTF. Een speler kan geen lagere herijs tijd krijgen dan dit.
+Minimale herijs tijd moet minder zijn dan de maximale herijs tijd.
+Maximale herrijs tijd moet groter zijn dan de minimale herijs tijd.
+Maps achtergrond kleuren
+Voordringende achtergrond kleuren
+Kleur1:
+Kleur2:
+Radio menu
+Vlag gooien
+Officiële home pagina
+Officiële forums
+Deathmatch
+Pointmatch
+Rambomatch
+Capture the Flag
+Teammatch
+Infiltration
+Hold the Flag
+Shirt:
+Broek:
+Actueel:
+Toets
+Linker muis knop
+Rechter muis knop
+Middelste muis knop
+Muis knop
+Muis wiel
+standaard: 
+standaard: V
+Aan het Connecten naar
+bericht verstuurt... Wachten voor antwoord
+Paseren van de server
+Rood
+Blauw
+Deze demo werkt niet met soldat
+Kan de demo niet afspelen
+Vliegen (jets) kleur
+Map achtergrond kleur
+Ontwikkeld en gemaakt door:
+Activeer voorgaande achtergrondkleur
+Afsluiten
+Minimaliseren
+Score
+Team scores
+Team
+Admin
+Klaar...
+Verbonden, verstuurt bericht...
+Voegt extra functies toe voor Voice-Chat als je teamspeak2 aan hebt in de achtergrond
+Verticale synchronisatie
+Fps Limiet
+Hoge resolutie timer
+Aangepast:
+0 Spelers
+FAQ
+Automatisch opnemen
+Geen geluid
+Soldat configuratie versie %s
+    |-Vertraging   :
+    |-Verspreiding :
+    |-Terugslag    :
+    |-Duwen        :
+    |-Stijl        :
+    |-Geërfd Tempo :
+Oude demo versie
+Interface op Schaal
+Could not find setup.sif. Loading default interface instead.
+Loading

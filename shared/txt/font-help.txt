@@ -1,0 +1,20 @@
+Help file for using Soldat fonts file FONT.INI. This is not the actual font setting file.
+
+[FONTS]
+Font1=Play             // font for pre-game menu and and in-game menus
+Font2=Lucida Console   // font for console and all texts in-game except menus
+FontMenuSize=12        // in-game menu font size
+FontConsoleSize=9      // console, player names and scores, weapons menu font size
+FontBigSize=28         // just changes the resolution of the font, size is automatic
+FontWeaponMenuSize=8   // font for weapon mod statistics and kill console
+FontConsoleSmallSize=7 // smaller font when text is too large for example
+Font1ScaleX=150        // 150% higher than width
+Font2ScaleX=125        // 125% higher than width
+FontMenuBold=1         // bold characters...
+FontConsoleBold=0
+FontBigBold=1
+FontWeaponMenuBold=0
+FontConsoleSmallBold=0
+KillConsoleNameSpace=8 // spacing between kills in kill console in pixels
+Font1File=play-regular.ttf
+

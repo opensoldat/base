@@ -1,0 +1,23 @@
+[BOT]
+Name=Sniper
+Color1=$002E787C
+Color2=$003A5C4F
+Skin_Color=$00E6B478
+Hair_Color=$00354871
+Favourite_Weapon=Barrett M82A1
+Secondary_Weapon=0
+Friend=
+Accuracy=10
+Shoot_Dead=0
+Grenade_Frequency=1000
+Camping=255
+OnStartUse=255
+Hair=0
+Headgear=1
+Chain=0
+Chat_Frequency=5
+Chat_Kill=One down
+Chat_Dead=Alpha is down
+Chat_Lowhealth=I'm hit!
+Chat_SeeEnemy=Open fire!
+Chat_Winning=Objective complete

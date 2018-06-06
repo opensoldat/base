@@ -1,0 +1,30 @@
+* SERVER VERSION 2.8.1 - GAME VERSION 1.7.1 *
+
+- Added TActvieBullet.Owner property (Read only)
+- Added Script.OnUnhandledException
+- Modified optimized bullet collisions
+- Modified optimized object collisions
+- Modified TPlayer.Alive, Admin, Human and Dummy properties to also check if player is active and return accordingly.
+- Modified TActivePlayer.Deaths is now Read-Write
+- Modified Script.OnHandledException to be a procedure instead of function
+- Modified SC3 exception handler now unloads the script if exception is thrown
+- Modifeid SC3 exception handler should output more meaningful messages, even with debug mode off
+- Modified removed the infamous explosive weapon hardcoded damage
+- Modified removed infinite saw ammo
+- Modified TPlayer.Kick, added Reason parameter
+- Modified TPlayers.Add, added JoinType parameter
+- Modified damage calculations to use hitbox modifiers now provided by WM file
+- Modified WM file values are now not altered by soldat in any way
+- Modified WM file now supports decimal values (decimal? floating point? idk how to call that)
+- Modified Health and Vest are now stored as decimal values
+- Modified TPlayer.Health type is now Single
+- Modified TPlayer.OnDamage event now accepts Damage parameter as Single instead of Integer, return type changed accordingly
+- Fixed adminport was not synchronized with main thread
+- Fixed issues with SC3 FileAPI sometimes not working properly
+- Fixed Script.Unload() and Script.Recompile() either not working or crashing
+- Fixed SC3 OnException message sometimes being empty
+- Fixed SC3 OnKill provided WeaponID value instead of BulletID
+- Fixed ForceWeapon sometimes didn't apply ammo
+- Fixed PascalCompiler clearing defines defined by pascalscript (MSWINDOWS, LINUX)
+- Fixed TPlayer.OnVoteKickStart crashing when vote started by the server due to cheat detection
+- Fixed bots using kill taunt on selfkill

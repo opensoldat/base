@@ -1,0 +1,23 @@
+[BOT]
+Name=Admiral
+Color1=$00E253EE
+Color2=$00394F48
+Skin_Color=$006D4A1A
+Hair_Color=$005336F5
+Favourite_Weapon=FN Minimi
+Secondary_Weapon=0
+Friend=
+Accuracy=70
+Shoot_Dead=0
+Grenade_Frequency=160
+Camping=0
+OnStartUse=255
+Hair=2
+Headgear=1
+Chain=2
+Chat_Frequency=7
+Chat_Kill=Ha ha
+Chat_Dead=You like that, don't you? 
+Chat_Lowhealth=
+Chat_SeeEnemy=Punk
+Chat_Winning=That's the way you do it

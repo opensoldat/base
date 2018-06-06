@@ -1,0 +1,23 @@
+[BOT]
+Name=Kruger
+Color1=$00D85C12
+Color2=$0097C69D
+Skin_Color=$00E6B478
+Hair_Color=$00515C79
+Favourite_Weapon=Ruger 77
+Secondary_Weapon=0
+Friend=
+Accuracy=8
+Shoot_Dead=0
+Grenade_Frequency=500
+Camping=255
+OnStartUse=255
+Hair=4
+Headgear=1
+Chain=0
+Chat_Frequency=6
+Chat_Kill=You've just been erased
+Chat_Dead=
+Chat_Lowhealth=
+Chat_SeeEnemy=Drop your gun
+Chat_Winning=

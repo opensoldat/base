@@ -1,0 +1,23 @@
+[BOT]
+Name=Commando
+Color1=$001B1BCD
+Color2=$00795435
+Skin_Color=$00E6B478
+Hair_Color=$00354871
+Favourite_Weapon=Steyr AUG
+Secondary_Weapon=1
+Friend=
+Accuracy=23
+Shoot_Dead=0
+Grenade_Frequency=152
+Camping=255
+OnStartUse=255
+Hair=0
+Headgear=1
+Chain=1
+Chat_Frequency=9
+Chat_Kill=I eat Green Berets for breakfast
+Chat_Dead=**** you
+Chat_Lowhealth=Like heck!
+Chat_SeeEnemy=You're a funny guy, I like you
+Chat_Winning=Affirmative

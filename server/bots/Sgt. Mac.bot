@@ -1,0 +1,23 @@
+[BOT]
+Name=Sgt. Mac
+Color1=$005B649F
+Color2=$00438B53
+Skin_Color=$006D4A1A
+Hair_Color=$00354871
+Favourite_Weapon=Spas-12
+Secondary_Weapon=0
+Friend=
+Accuracy=32
+Shoot_Dead=0
+Grenade_Frequency=144
+Camping=0
+OnStartUse=255
+Hair=0
+Headgear=1
+Chain=1
+Chat_Frequency=12
+Chat_Kill=Got that?
+Chat_Dead=Uuu
+Chat_Lowhealth=Mother ****aaa!
+Chat_SeeEnemy=I'll bleed ya, real quiet
+Chat_Winning=I'm gonna have me some fun!

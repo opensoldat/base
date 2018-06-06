@@ -1,0 +1,12 @@
+P1
+0
+0
+-2
+P2
+0
+0
+2
+CONSTRAINTS
+P2
+P1
+ENDFILE

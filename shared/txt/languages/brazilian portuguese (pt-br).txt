@@ -1,0 +1,821 @@
+Morto por %s
+Você matou %s
+Você se matou
+Jogadores vivos:
+Jogadores vivos na sua equipe:
+Ponto da equipe Alfa!
+%s pontua para equipe Alfa
+Ponto da equipe Bravo!
+%s pontua para equipe Bravo
+Você pegou a bandeira!
+Bandeira amarela capturada!
+%s pegou a bandeira amarela!
+Bandeira vermelha retornada!
+%s retornou a bandeira vermelha!
+Bandeira azul retornada!
+%s retornou a bandeira azul!
+Você pegou a bandeira azul!
+Bandeira azul capturada!
+%s capturou a bandeira azul
+Você pegou a bandeira vermelha!
+Bandeira vermelha capturada!
+%s capturou a bandeira vermelha!
+Você retornou o objetivo!
+Objetivo retornado!
+%s retornou o objetivo
+Você pegou o objetivo!
+Objetivo capturado!
+%s capturou o objetivo!
+Você pegou o Arco!
+%s pegou o Arco!
+Modo Deus do Fogo!
+Modo Predador!
+Colete à prova de balas!
+Modo Furioso!
+Granadas de fragmentação!
+Reproduzindo agora...
+Reproduzindo...
+Mate tudo que se move.
+Ganhe 1 ponto por assassinato. Carregando a bandeira amarela você ganha 2 pontos por assassinato. Também são adquiridos múltiplos pontos por assassinatos múltiplos.
+Até 4 equipes se enfrentam.
+Capture a bandeira inimiga e a leve até sua base para marcar pontos. 25 pontos por captura.
+Quem possuir o arco do Rambo recebe os super-poderes do Rambo. Apenas o Rambo ganha pontos por assassinato. Você ganha 1 ponto por matar o Rambo.
+A equipe vermelha ganha 30 pontos por capturar a bandeira preta. A equipe azul ganha 1 ponto por cada 5 segundos que a bandeira preta permanecer na base.
+Esta opção estará disponível para você após o registro.
+Para registrar agora, digite www.soldat.pl/register no seu navegador.
+Versão não registrada
+Erro ao inicializar o hardware 3D. Seu hardware não suporta DirectX 8.
+Tenha certeza de instalar os drivers de vídeo mais atuais. Agora o software será usado...
+Não foi possível inicializar os gráficos DirectX.
+Você precisa ter instalado DirectX 8 ou superior.
+Tente executar o Soldat no modo de compatibilidade.
+Erro ao inicializar mecanismo D3DX.
+Erro ao ler textura:
+Erro ao criar fonte.
+ESC - retorna ao jogo
+A equipe Alfa venceu
+A equipe Bravo venceu
+A equipe Charlie venceu
+A equipe Delta venceu
+%s venceu
+Jogo pausado
+Tempo
+Jogadores
+Jogador:
+Matou:
+Pontos:
+Morreu:
+Ping:
+Arma primária:
+Arma secundária:
+Renascendo em... %s
+jogadores vivos
+jogadores na equipe
+Fim da rodada.
+Você sobreviveu!
+Escolha sua equipe:
+Seguindo
+Seguindo
+Câmera livre
+Ping:
+Jogo feito por
+Pressione ESC para continuar
+Não foi possível carregar a textura:
+Erro
+Menu de armas desativado
+Menu de armas ativado
+Morra
+Bandeira!
+Inicializando gráficos DirectX.
+Aviso.
+AVISO:
+ERRO:
+Gráficos reiniciados
+Iniciar jogo
+Conectar ao jogo
+Tempo restante:
+segundos
+minutos
+-> Votação de mapa iniciada
+Votação de mapa concluída <-
+Número IP
+Desbanido
+Receber:
+Enviar:
+%s recebeu alerta por ping alto
+%s está floodando o servidor
+%s está enviando pacotes demais
+%s desconectado
+%s não pôde responder
+Servidor de jogo não registrado
+Tentando registrar novamente
+A conexão expirou
+Problema de conexão
+Não foi possível carregar %s
+Soldat.ini - Arquivo faltando ou versão incorreta. Tente reinstalar o jogo.
+Erro no arquivo Soldat.ini
+Versão não registrada. Se você gostou desse jogo, por favor, dê o seu apoio e o registre.
+Não registrado. Você aparenta jogar este jogo com frequência. Por favor, dê o seu apoio e o registre.
+Registrado para:
+Bem-vindo ao Soldat
+Sair para o menu
+Mudar de mapa
+Kickar jogador
+Mudar de equipe
+1 Equipe Alfa
+2 Equipe Bravo
+3 Equipe Charlie
+4 Equipe Delta
+<<<<
+>>>>
+Kickar
+Banir
+Selecionar
+Mostrar lag real DESLIGADO
+Mostrar lag real LIGADO
+Música tocando...
+Música pausada...
+Música parada...
+Arquivo de bot não encontrado
+%s entrou no jogo
+%s entrou na equipe Alfa
+%s entrou na equipe Bravo
+%s entrou na equipe Charlie
+%s entrou na equipe Delta
+Baixar mapa
+banido
+adicionado aos administradores remotos
+removido dos administradores remotos
+Tempo para renascer é
+Tempo para renascer mudou para
+Tempo máximo para renascer é
+Tempo máximo para renascer mudou para
+Limite atual de assassinatos/pontos/capturas é
+Limite de assassinatos/pontos/capturas mudou para
+Atual frequência de bônus é
+Frequência de bônus mudou para
+Atual limite de tempo é
+Limite de tempo mudou para
+Atual senha do servidor é
+Neste momento, não há senha no servidor
+Senha do servidor mudou para
+Atual senha de administrador é
+Neste momento, não há senha de administrador
+Senha de administrador mudou para
+%s entrou no jogo.
+Há bots demais. Remova ao menos um.
+Servidor rodando...
+Servidor dedicado rodando...
+Jogo iniciado.
+Nenhum mapa foi encontrado
+Modo Realista LIGADO
+Modo de Sobrevivência LIGADO
+Batalha Mortal iniciada!
+Luta por Pontos iniciada!
+Batalha Entre Equipes iniciada!
+Capture a bandeira inimiga!
+Encontre o arco do Rambo!
+Infiltração iniciada!
+Há bots aleatórios demais. Não foi possível carregar todos
+(!) O combustível do jato é determinado pelo mapa. Portanto, pode ser maior ou menor em certos mapas.
+(!) Para largar sua arma atual após renascer,
+clique em qualquer lugar fora do menu de armas.
+(!) Para evitar coice da arma, atire tiros únicos ou pequenas rajadas.
+Partida de Clã habilitada
+Servidor de jogo não registrado
+Registrando servidor @ ASE
+Opção de servidor dedicado habilitada. Impossível entrar.
+Requisitando jogo...
+Não é possível jogar com animações modificadas. Por favor, reinstale o jogo.
+Não é possível jogar com objetos modificados. Por favor, reinstale o jogo.
+Não é possível jogar nada rede com gráficos de armas ou gosteks tão grandes (16x16 e 64x64, respectivamente). Se isso não for intencional, por favor, reinstale o jogo.
+Requisitando jogo remetido...
+Fim do jogo
+Jogadores:
+Limite de matança:
+Limite de pontos:
+Limite de capturas:
+Limite de assassinatos:
+Pressione uma tecla ou botão do mouse para acionar:
+Tecla OK
+Botão do Mouse OK
+Roda do Mouse OK
+Movimento esquerdo OK
+Movimento direito OK
+Pula
+Agacha
+Joga granada
+Muda de arma
+Larga arma
+Recarrega arma
+Atira
+Voa
+Conversa
+Deita
+Conversa da equipe
+Menu de armas
+Há bots demais
+É um empate
+Requisitando...
+Ligação direta inicializada
+Servidor de entrada (lobby) não está respondendo. Por favor, tente novamente mais tarde.
+Requisitar servidores
+Ping geral
+Pingando
+Tempo de banimento
+Digite o tempo que o jogador ficará banido (em minutos). Se o banimento é permanente, deixe o espaço em branco.
+%s foi kickado.
+%s foi kickado e banido por %s minutos
+%s foi kickado e permanentemente banido
+Você votou para kickar
+do jogo
+Seu voto é pelo mapa:
+Padrão (último usado)
+Novo perfil
+Insira o nome:
+Módulo não encontrado. Por favor, reinstale o jogo.
+(EQUIPE)
+banido por floodar
+Requisitando jogo...
+%s saiu do jogo
+%s saiu da equipe Alfa
+%s saiu da equipe Bravo
+%s saiu da equipe Charlie
+%s saiu da equipe Delta
+adicionado aos Administradores do Jogo
+tentou entrar como um Administrador de Jogo com uma senha incorreta
+ping
+ms
+Média de pings:
+está usando cheat
+Servidor de entrada (lobby) pingando de
+Servidor de jogo adicionado ao servidor de entrada (lobby)@
+Servidor de Jogo REGISTRADO
+Cliente remeteu de
+(ping)
+Conexão aceita...
+Conexão aceita para
+Mapa
+não encontrado ou não pôde ser baixado
+Entrando...
+Esperando para entrar no jogo...
+Votar mapa
+Votar kick
+Versão do jogo incorreta. Sua versão:
+Versão do Servidor:
+Necessário senha do servidor
+Você foi banido deste servidor
+Servidor está cheio
+Detectada versão incorreta de mapa 
+Granadas de fragmentação!
+Servidor desconectado
+%s desconectou
+%s foi desconectado
+%s está mudando de equipe
+%s foi kickado por ping (por 15 minutos)
+%s foi kickado por flood (por 5 minutos)
+%s foi kickado pelo console
+%s foi kickado por "conexão com cheat"
+%s foi kickado por possível cheat
+%s saiu do jogo
+%s foi votado para sair do jogo
+*SERVIDOR*
+Próximo mapa:
+-> Aberta votação para mapa
+-> Selecione o mapa do menu se você quer jogar nele
+-> Tempo restante:
+Concluída votação do mapa <-
+Saudações do servidor...
+Entrando no servidor...
+Pingando o servidor...
+Remetendo pelo servidor de entrada (lobby)... por favor, aguarde
+Erro: Servidor não encontrado
+Erro:
+Registrando servidor @
+Baixando...
+servidores
+Sim
+Não
+seg.
+Sobrevivência
+Nenhum
+Muito poucos
+Poucos
+Frequentes
+Muitos
+Máximo
+Servidores de jogo:
+- Jogadores:
+Contando votos do mapa
+Nenhum mapa foi votado
+Servidor de jogo adicionado ao ASE
+Iniciar jogo
+Conectar ao jogo
+Opções
+Jogador
+Sair
+Estilo de jogo:
+Meta:
+Limite de mortes:
+Mapas:
+Ciclo
+Bots:
+Modo Sobrevivência
+Modo Realista
+Bots aleatórios:
+Bots nas equipes:
+Alfa
+Bravo
+Charlie
+Delta
+Iniciar jogo
+Limite de tempo:
+IP do servidor:
+Porta:
+Senha:
+Padrão: 23073
+Conectar ao jogo
+Desconectar
+Lista de servidores:
+Filtros de servidor:
+Lotação:
+Tipo:
+Outro:
+Dedicado
+Sem senha
+Sem bots
+Modo Sobrevivência
+Modo Realista
+Sem bônus
+Nome
+Mapa
+Jogadores
+Máximo
+Tipo de jogo
+Ping
+Velocidade
+Dedicado
+Senha
+Bots
+Tipo de renascimento
+Bônus
+Realista
+Sistema
+IP
+Porta
+BattlEye
+Requisitar servidores
+Internet
+Local
+Cancelar
+Pingar
+Filtros
+Jogo
+Tempo de renascimento (segundos):
+Renascimento normal:
+Tempo mínimo e máximo p/ renascer:
+Bônus
+Frequência (0 = nenhuma):
+G.Frag
+Colete
+Armas
+Eagles
+Mp5
+Ak74
+Steyr
+Spas 12
+Ruger
+M79
+Barrete
+Minimi
+Minigun
+Pistola SOCOM
+Faca
+Serra
+Bazuca M72
+Máximo de granadas:
+Fogo amigo
+Sensibilidade do mouse (%):
+Rede
+Conexão:
+LAN
+Internet
+Registrar servidor
+Máximo de jogadores:
+Balancear equipes
+Nome do servidor:
+Senha do servidor:
+Visuais
+Interface:
+Indicador
+Linha sniper
+Bots
+Dificuldade:
+Estúpido
+Fácil
+Normal
+Difícil
+Impossível
+Conversa
+Som
+Volume do som (%):
+Volume da música (%):
+Explosão
+Batalha distante
+Música do jogo:
+Nenhuma
+"Blood Soil"
+"Gore"
+"Necromancide"
+Música:
+Furioso
+Predador
+Deus Fogo
+Nome do jogador:
+Cores do jogador:
+Pele:
+Branco
+Moreno
+Negro
+Cabelo:
+Exército
+Normal
+Punk
+Estilo Mr. T
+Com dreads
+Cabelo:
+Adorno para cabeça:
+Capacete
+Chapéu
+Nada
+Corrente:
+Nenhuma
+Exército
+Ouro
+Arma secundária:
+Controles
+Pressione o botão para mudar o controle
+Atirar
+Voar
+Pular
+Esquerda
+Direita
+Agachar
+Deitar
+Jogar granada
+Mudar de arma
+Largar arma
+Recarregar arma
+Conversar
+Msg. p/ equipe
+Menu de armas
+Bem-vindo ao Soldat. Selecione seu perfil:
+Adicionar
+Deletar
+OK
+Sair
+Por favor, leia isto:
+Você possui uma versão não registrada.
+Se você gosta deste jogo, por favor, dê o seu apoio e o registre.
+Para registrar ou para conhecer os benefícios do registro, clique no botão "Registrar" abaixo. Confira o Manual ou a HomePage do Soldat para mais informações.
+Home Page do Soldat
+Manual do Soldat
+Registrar
+OK
+Montante de assassinatos até o próximo mapa.
+Tempo durante o qual um mapa será jogado.
+Recomeçar lista de mapas após o término do último.
+Modo de jogo sem renascimento após a morte. Todos renascem depois que um jogador ou equipe sobrevive.
+Modo de jogo realístico: pouca vida, dano por queda, armas têm coice, você só vê o que seu personagem vê.
+Digite o número IP do servidor de Internet ou LAN.
+Digite o número da porta do servidor de Internet ou LAN.
+Se necessário, digite a senha do servidor aqui.
+Cancela a conexão.
+Cria uma lista com os servidores de Soldat locais ou da Internet.
+Cancela todas as ações.
+Checa o ping de todos servidores da lista.
+Usado para requisitar servidores filtrados.
+Tempo que leva para o jogador renascer após a morte.
+Tempo máximo para renascer no Capture a Bandeira, Batalha Entre Equipes e Infiltração. Um cronômetro de renascimento global é usado, dessa forma colegas de equipe renascem sempre ao mesmo tempo. O intervalo de tempo do cronômetro é baseado na quantidade de jogadores.
+Quantidade máxima de granadas que você pode carregar. É também a quantidade de granadas que vem dentro das caixas. A quantidade inicial de granadas é igual à metade da quantidade máxima de granadas.
+Se selecionado, você pode ferir seus aliados.
+Selecione esta opção se você estiver jogando sozinho ou em uma LAN.
+Selecione esta opção se você estiver jogando pela Internet.
+Número máximo de jogadores humanos permitido em seu servidor.
+Se selecionado, seu servidor vai ser registrado no servidor de entrada (lobby) do Soldat e jogadores da Internet verão seu jogo na lista de servidores.
+Se selecionado, jogadores que entrarem no servidor serão forçados a se juntarem à equipe que possuir menos jogadores (Capture a Bandeira & Infiltração).
+O nome do seu servidor será visto na lista de servidores.
+Senha para seu servidor, apenas jogadores que a souberem poderão entrar.
+Estilos diferentes de interface. Interfaces personalizadas estão localizadas no diretório Soldat\Custom-Interfaces.
+Exibe um pequeno indicador sobre a cabeça dos jogadores.
+Exibe uma linha entre o jogador e o cursor do mouse.
+Os bots falam.
+Efeito de som reproduzido quando uma explosão ocorrer próxima ao seu personagem.
+Sons de batalhas distantes podem ser ouvidos mesmo que você esteja afastado da ação.
+Lista das músicas que serão reproduzidas durante o jogo. Os arquivos de música devem ser colocados no diretório Soldat\Music.
+Cor da camisa e do capacete.
+Cor das calças.
+Padrão: Botão esquerdo do mouse
+Padrão: Botão direito do mouse
+Padrão: W
+Padrão: A
+Padrão: D
+Padrão: S
+Padrão: X
+Padrão: E
+Padrão: Q
+Padrão: F
+Padrão: R
+Padrão: T
+Padrão: Y
+Padrão: Tab
+Todos
+Não lotado
+Não vazio
+Não lotado e não vazio
+Fogo Amigo está
+Fogo Amigo mudou para
+Porcentagem da votação é
+Porcentagem da votação mudou para
+Número máximo de jogadores é
+Número máximo de jogadores mudou para
+Com a opção anti-cheat desativada é impossível utilizar servidores do servidor de entrada (lobby)
+Armas estacionárias
+Armas estacionárias em mapas ligado/desligado
+Tela cheia
+Tremor
+Antialiasing
+Cor (Bits)
+Taxa de atualização
+Padrão
+Média
+Alta
+Windowed
+Salvar e sair
+Qualidade do som
+Baixa
+Normal
+Alta
+Tipo de reprodução de som:
+Lista de drivers de som:
+Partículas na tela
+Máximo (padrão)
+Médio
+Mínimo
+Visão dos bots
+Ótima
+Normal (padrão)
+Pobre
+Muito pobre
+Mostrar rastros de balas
+Mostrar efeitos climáticos
+Mostrar Console de Mortes
+Registrar jogos (criar logs)
+Servidor
+Velocidade de conexão à Internet:
+Porta do jogo (padrão 23073):
+Ping máximo dos jogadores (ms):
+Mensagem de saudação (limite de 50 caracteres):
+Link do Servidor (Web Page ou e-mail - limite de 60 caracteres):
+Nunca encaminhar clientes (firewall com portas abertas)
+Registrar Servidor com "All-Seeing Eye" (ASE)
+Diagnosticando:
+Compatibilidade de vídeo
+Windowed Fullscreen
+Correção de tela preta quando estiver usando bônus (placas ATI)
+<UNUSED>
+Filtros de textura:
+<UNUSED>
+Pontual
+Linear (padrão)
+Mipmapping
+Língua:
+Mudar língua
+Reproduzir prólogo
+Partida de Clã (cores da equipe são iguais às do primeiro jogador)
+Gráficos
+Som
+Mais
+Desempenho
+Rede
+DirectX não está funcionando. Por favor, certifique-se de ter instalado o DirectX 8 ou superior.
+Padrão
+As opções de vídeo são incompatíveis com seu hardware. Por favor, clique em OK e escolha uma opção diferente. Clique em Cancelar para ignorar este aviso e salvar as opções.
+Erro de configuração
+Saída de som não encontrada.
+Drivers de som não encontrados
+Mostrar polígonos lisos
+Assistir
+Chamas de jato:
+%s entrou como espectador
+Gravando demo:
+Mostrando demo:
+Demo parada
+Gravando demo
+Por favor, registre o jogo para gravar demos com a duração que você quiser.
+Marque esta opção se você deseja apenas assistir ao jogo
+%s deixou os espectadores
+Não foi possível encontrar cenário:
+Cenário original do mapa não pode ser modificado. Por favor, reinstale o jogo.
+Modo Avançado
+Quando o jogo iniciar, cada jogador estará limitado a escolher uma das armas secundárias. Uma nova arma será disponibilizada a cada montante de assassinatos (configure com a opção "Montante de avanço"). Se morrer, o jogador perderá suas armas sob as mesmas condições.
+Câmera lenta
+Se habilitada, efeitos de câmera lenta surgirão quando todos os jogadores estiverem perto de morrer.
+Voto:
+Mapa
+Kickar
+F11 - Não    F12 - Sim
+Você votou em %s
+Você votou para kickar %s
+%s está mudo
+%s não está mais mudo
+Modo Avançado LIGADO
+Baixando...
+Conectado. Requisitando arquivo
+Não foi possível baixar o arquivo
+Impossível votar até que 2 minutos se passem desde a última votação ou conexão ao jogo
+Pegue a bandeira amarela e a mantenha com o seu time pelo máximo de tempo possível. O time ganha 1 ponto a cada 5 segundos de posse da bandeira.
+Segure a bandeira!
+Montante de avanço:
+O número de assassinatos necessário para ganhar uma nova arma no Modo Avançado. Também o número de mortes necessárias para perder uma arma.
+Mod de Armas carregado
+Digite a razão para o voto:
+Votante:
+Razão:
+Mod de Armas
+Segure para atirar, quando estiver agachado ou deitado
+Pode ser arremessada com o botão de largar arma
+Segure para atirar, impreciso se estiver em movimento
+   Configurações : mudança% (atual/padrão)
+    |-Dano       :
+    |-Munição    :
+    |-Recarregar :
+    |-Velocidade :
+    |-Bink       :
+    |-Cadência   :
+    |-Precisão   :
+Linha sniper desabilitada neste servidor
+Configuração recarregada
+Sem arma
+Favoritar
+Adiciona o servidor atual à lista de favoritos
+Desfavoritar
+Deleta o servidor atual da lista de favoritos
+Servidor usa o Mod de Armas (checksum
+morto pelo administrador
+Tirar screenshot (foto da tela) automaticamente ao final de cada jogo
+Patrocínio:
+Abrindo navegador Web...
+5 Espectador
+Abre link no navegador
+Abre link depois de fechar o jogo
+Low Power Mode
+Desktop
+Resolução
+Teclas padrão (exibidas nas 3 primeiras vezes em que o jogo for executado)
+[A]/[D] esquerda/direita
+[W]/[S]/[X] pula / agacha / deita
+[Left Mouse] atira!
+[Right Mouse] jato das botas
+segure [E] para arremessar granadas
+[R] recarrega arma
+[Q] muda de arma / [F] larga a arma
+[T] conversa / [Y] conversa da equipe
+Servidor utiliza anti-cheat
+Anti-cheat habilitado
+Falhou ao carregar
+Anti-cheat ativado
+%s foi kickado por violação do anti-cheat
+O Soldat está escondido aqui
+Sua chave de registro é inválida ou está em uso.
+Por favor, envie um e-mail para support@thd.vg contendo a data do seu registro, além do nome ou e-mail usado para registrar.
+Filtros de resolução:
+Arma ativada:
+Arma desativada:
+Gama
+Funciona apenas no modo de tela cheia. Botão direito restaura para o valor padrão.
+XXX
+Iniciar Soldat depois que o Setup for fechado
+Integração com TeamSpeak
+ActionSnap
+Portal
+Largar bandeira
+Login
+Nome de usuário:
+Criar conta
+Esqueceu sua senha?
+Lembrar de mim
+Efetuar login automaticamente
+Jogar offline / LAN
+Aguardando para efetuar login...
+Editar perfil do portal
+Efetuando login...
+Nome de usuário ou senha inválidos
+Esta conta está banida
+Efetuando login com frequência demais...
+Sucesso no login!
+Sua conexão expirou
+Nome de usuário curto demais
+Senha curta demais
+O servidor não pôde verificar o ID do seu hardware
+O nome "%s" está registrado para outro jogador
+Por favor, tente utilizar um nome diferente
+Verificando informação de login...
+Por favor, aguarde...
+O servidor não é capaz de verificar sua informação de login
+Pressione F5 para visualizar captura de tela
+Pressione F4 para salvar captura de tela
+Pressione F5 para cancelar
+%s deixou cair a bandeira %s
+Bandeira %s caiu!
+Transferência de arquivos
+Progresso do arquivo:
+Total:
+TeamSpeak
+Cenário animado
+Por favor, saia e efetue login novamente
+Arma:
+% 
+Tiros:
+Hits:
+Matou(HS):
+Por favor, registre o Soldat para acessar este recurso
+(Atualizado a cada 10 segundos)
+HS = Na cabeça
+% = Precisão
+Sensibilidade:
+Desculpe, mas você não pode entrar neste servidor protegido pelo Anti-cheat.
+O Anti-cheat do Soldat não é compatível com a sua versão do Windows.
+Para jogar em servidores com anti-cheat ativo utilize Windows NT/2000/XP/Vista/7
+Logout
+Renderizar fundo do cenário
+Tempo mínimo para renascer é
+Tempo mínimo para renascer mudou para
+Tempo mínimo para renascer em Capture a Bandeira, Batalha Entre Equipes, Infiltração e Segure a Bandeira. Um jogador não pode ter um tempo para renascer menor do que este.
+Tempo mínimo para renascer deve ser inferior ao tempo máximo para renascer
+Tempo máximo para renascer deve ser superior ao tempo mínimo para renascer
+Cores de fundo dos mapas
+Forçar cores de fundo
+Cor 1:
+Cor 2:
+Menu do rádio
+Largar bandeira
+Home page oficial
+Fóruns oficiais
+Batalha Mortal
+Luta por Pontos
+Batalha do Rambo
+Capture a Bandeira
+Batalha Entre Equipes
+Infiltração
+Segure a Bandeira
+Camisa:
+Calças:
+Atual:
+Tecla
+Botão esquerdo do mouse
+Botão direito do mouse
+Botão central do mouse
+Botão do mouse
+Roda do mouse
+Padrão: 
+Padrão: V
+Conectando a
+Mensagem enviada... Aguardando resposta
+Analisando servidores
+Vermelha
+Azul
+Esta demo não é compatível com o Soldat
+Impossível reproduzir demo
+Cor do jato
+Cor de fundo do mapa
+Desenvolvido por
+Habilitar sobrescrição da cor de fundo
+Fechar
+Minimizar
+Pontuação
+Pontuação da equipe
+Equipe
+Administrador
+Concluído...
+Conectado, enviando Msg...
+Adiciona recursos adicionais ao Chat de Voz se o TeamSpeak2 estiver rodando em segundo plano
+Sincronização Vertical
+Fps máximo
+Cronômetro em Alta Resolução
+Personalizada:
+0 Jogador
+FAQ
+Gravação automática
+Sem Som
+Versão do Soldat Config %s
+    |-Atraso       :
+    |-Espalhamento :
+    |-Coice        :
+    |-Impulso      :
+    |-Estilo       :
+    |-Vel. Herdada :
+Antiga versão de demonstração
+Redimensionar interface
+Could not find setup.sif. Loading default interface instead.
+Loading

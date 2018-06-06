@@ -1,0 +1,9 @@
+How to update the server:
+
+If you're on *nix run the update.sh script in the patch directory to automatically patch the server.
+To manually update the patch, do the following steps:
+
+1) Add all the files (overwrite existing files) from the patch, except for update.txt and soldat.ini
+2) chmod +x the soldatserver* files
+
+Done!

@@ -1,0 +1,23 @@
+[BOT]
+Name=Poncho
+Color1=$003496CB
+Color2=$0038524E
+Skin_Color=$00E6B478
+Hair_Color=$00354871
+Favourite_Weapon=HK MP5
+Secondary_Weapon=0
+Friend=
+Accuracy=28
+Shoot_Dead=0
+Grenade_Frequency=133
+Camping=0
+OnStartUse=255
+Hair=0
+Headgear=2
+Chain=1
+Chat_Frequency=10
+Chat_Kill=Take a look at that!
+Chat_Dead=Bullcrap!
+Chat_Lowhealth=I'm bleeding, man!
+Chat_SeeEnemy=You got time to duck?
+Chat_Winning=

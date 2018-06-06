@@ -1,0 +1,23 @@
+[BOT]
+Name=Dutch
+Color1=$004195C2
+Color2=$002E7A3D
+Skin_Color=$00E6B478
+Hair_Color=$00354871
+Favourite_Weapon=FN Minimi
+Secondary_Weapon=0
+Friend=
+Accuracy=13
+Shoot_Dead=0
+Grenade_Frequency=160
+Camping=255
+OnStartUse=1
+Hair=4
+Headgear=1
+Chain=0
+Chat_Frequency=7
+Chat_Kill=Stick around!
+Chat_Dead=Son of a *****!
+Chat_Lowhealth=Do it! Do it now!!!! I'm here! Kill Me!
+Chat_SeeEnemy=You're one UGLY mother ****er!
+Chat_Winning=If it bleeds, we can kill it

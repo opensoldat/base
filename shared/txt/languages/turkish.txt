@@ -1,0 +1,821 @@
+%s tarafýndan öldürüldün
+%s öldürüldü
+Kendi kendini öldürdün
+Kalan oyuncular:
+Senin takýmýnda kalan oyuncular:
+Alpha takýmý sayý yaptý!
+%s Alpha takýmý adýna sayý yaptý
+Bravo takýmý sayý yaptý!
+%s Bravo takýmý adýna sayý yaptý
+Bayraðý aldýn!
+Sarý bayrak ele geçirildi!
+%s Sarý bayraðý aldý
+Kýrmýzý bayrak geri döndürüldü!
+%s Kýrmýzý bayraðý geri döndürdü
+Mavi bayrak geri döndürüldü!
+%s Mavi bayraðý geri döndürdü
+Mavi bayraðý aldýn!
+Mavi bayrak ele geçirildi!
+%s Mavi bayraðý ele geçirdi
+Kýrmýzý bayraðý aldýn!
+Kýrmýzý bayrak ele geçirildi!
+%s Kýrmýzý bayraðý ele geçirdi
+Hedefi geri döndürdün!
+Hedef geri döndürüldü!
+%s Hedefi geri döndürdü
+Hedefi aldýn!
+Hedef ele geçirildi!
+%s Hedefi ele geçirdi
+Yayý aldýn!
+%s Yayý aldý!
+Ateþ Tanrýsý Modu!
+Görünmezlik Modu!
+Kurþun Geçirmez Yelek!
+Psikopata Baðladýn!
+Parça Tesirli El Bombasý!
+Þimdi Çalýyor...
+Çalýyor...
+Hareket eden her þeyi öldür.
+Her öldürme için 1 puan alýrsýn. Sarý bayraðý taþýyorsan her öldürmede 2 puan alýrsýn. Ayrýca seri öldürmelerde katlanmýþ puan alýrsýn.
+En çok 4 takým birbirine karþý savaþýr.
+Sayý yapmak için düþmanýn baðraðýný ele geçir ve kendi üssüne getir.
+"Ýlk Kan" stili. Rambo Yayýný kim ele geçirirse süper Rambo güçlerine sahip olur. Sadece Rambo öldürdüðünde sayý alýr.
+Kýrmýzý takým Siyah Bayraðý ele geçirdiðinde 30 puan kazanýr. Mavi takým bayraðýn kendi üslerinde bulunduðu her 5 saniye için 1 puan kazanýr.
+Bu seçeneði kullanabilmek için oyunu satýn almanýz gerekiyor.
+Satýn almak için hemen www.soldat.pl/register adresine girin.
+Kayýt edilmemiþ versiyon
+3D donanýmýný tanýmada hata. Donanýmýnýz Directx 8'i tanýmýyor.
+En son grafik sürücülerini yüklediðinizden emin olur. Þimdi varsayýlan yazýlým kullanýlacak...
+DirectX Graphics tanýmlanamadý.
+DirectX 8 yada üstünü yüklemiþ olmanýz gerekmektedir.
+Soldat'ý uyuþabilir modda çalýþtýrmayý deneyin.
+D3DX motorunu tanýmlamada hata.
+Grafik dokularýný baþlatmada hata:
+Yazý tipi yaratmada hata.
+ESC - oyuna geri dön
+Alpha takýmý kazandý
+Bravo takýmý kazandý
+Charlie takýmý kazandý
+Delta takýmý kazandý
+%s kazandý
+Oyun duraklatýldý
+Süre
+Oyuncular
+Oyuncu:
+Öldürmeler:
+Puanlar:
+Ölümler:
+Ping:
+Ana Silah:
+Yedek Silah:
+Tekrar Canlan: %s
+kalan oyuncular
+kalan takým oyuncularý
+Turun sonu...
+Hayatta kaldýn
+Takým Seç:
+Ýzlenen
+Ýzlenen
+Serbest Kamera
+Ping:
+oyunu yapan
+devam etmek için ESC'ye basýn
+Grafik dokularý baþlatýlamadý:
+Hata
+Silah menusu kapatýldý
+Silah menusu açýldý
+Öl
+Bayrak!
+DirectX Graphics tanýmlanýyor.
+Uyarý.
+UYARI:
+HATA:
+Grafikler tekrar baþlatýldý
+Oyunu Baþlat
+Oyuna Katýl
+Kalan süre:
+saniye
+dakika
+-> Harita Oylamasý Baþladý
+Harita Oylamasý Bitti <-
+IP numarasý
+Engel kaldýrýldý
+Al: 
+Gönder:
+%s ping uyarýsý aldý
+%s flood yapýyor
+%s çok fazla paket gönderiyor
+%s sunucuyla baðlantýsý kesildi
+%s cevap veremiyor
+Oyun Sunucusu kayýt edilmedi
+Tekrar kayýt edilmeye çalýþýlýyor
+Zaman aþýmýna uðradý
+Baðlantý Problemi
+%s baþlatýlamadý
+Soldat.ini - Dosya yok yada yanlýþ sürüm. Oyunu tekrar yüklemeyi deneyin.
+Soldat.ini dosya hatasý
+Kayýt edilmemiþ sürüm. Eðer bu oyunu sevdiyseniz lütfen oyunu satýn alýn ve destekleyin
+Kayýt edilmemiþ sürüm. Bu oyunu sýk oynuyor gözüküyorsunuz, lütfen oyunu satýn alma konusunda tekrar düþünün
+Kayýt edilen kiþi:
+Soldata Hoþgeldiniz
+Ana Menuye Dön
+Haritayý deðiþtir
+Oyuncu at
+Takým deðiþtir
+1 Alpha Takýmý
+2 Bravo Takýmý
+3 Charlie Takýmý
+4 Delta Takýmý
+<<<<
+>>>>
+At
+Engelle
+Seç
+Gecikmeyi gösterme KAPALI
+Gecikmeyi gösterme AÇIK
+Müzik çalýyor...
+Müzik duraklatýldý...
+Müzik durduruldu...
+Bot dosyasý bulunamadý
+%s oyuna katýldý
+%s alpha takýmýna katýldý
+%s bravo takýmýna katýldý
+%s charlie takýmýna katýldý
+%s delta takýmýna katýldý
+Haritayý indir
+engellendi
+Uzaktan Yöneticilere eklendi
+Uzaktan Yöneticilerden çýkarýldý
+Canlanma süresi
+Canlanma süresi þuna ayarlandý
+En fazla canlanma süresi
+En fazla canlanma süresi þuna ayarlandý
+Þimdiki öldürme/puan/ele geçirme sýnýrý
+öldürme/puan/ele geçirme sýnýrý þuna ayarlandý
+Þimdiki bonus sýklýðý
+Bonus sýklýðý þuna ayarlandý
+Þimdiki zaman sýnýrý
+Zaman sýnýrý þuna ayarlandý
+Þimdiki sunucu þifresi
+Þu an sunucu þifresi bulunmamaktadýr
+Sunucu þifresi þuna ayarlandý
+Þimdiki yönetici þifresi
+Þu an yönetici þifresi bulunmamaktadýr
+Yönetici þifresi þuna ayarlandý
+%s oyuna katýldý.
+Çok fazla bot var. 1 yada daha fazlasýný çýkartýn.
+Sunucu çalýþýyor...
+Adanmýþ sunucu çalýþýyor...
+Oyun baþladý.
+Haritalar bulunamadý
+Gerçekçi Mod AÇIK
+Hayatta Kalma Modu AÇIK
+Ölüm maçý baþladý!
+Puan maçý baþladý!
+Takým maçý baþladý!
+Düþmanýn bayraðýný ele geçir!
+Rambo Yayýný bul!
+Infiltration baþladý!
+Çok fazla bot var. Hepsi baþlatýlamadý
+(!) Jet yakýtý haritaya özeldir. Deðiþik haritalarda farklý seviyelerde bulunabilir.
+(!) Canlandýðýnýzda son silahýnýzý yeniden seçmek için
+silah menusunun dýþýnda herhangi bir yere týklayýn.
+(!) Silahýn tepmesini engellemek için tek atýþ yapýn yada kýsa süreli tarayýn.
+Klan maçý aktifleþtirildi
+Oyun sunucusu kayýt edilmedi
+Sunucu Kaydediliyor @ ASE
+Adanmýþ sunucu seçeneði aktifleþtirilmiþ. Oyuna giremezsiniz.
+Oyuna baðlanýyor...
+Deðiþtirilmiþ animasyonlarla oynayamazsýnýz. Oyunu tekrar yüklemeyi deneyin.
+Deðiþtirilmiþ objelerle oynayamazsýnýz. Oyunu tekrar yüklemeyi deneyin.
+Silah ve Gostek grafiklerinin boyutu 64x64 ve 16x16'yi geçemez. Aðdan oynamak mümkün deðil. Tasarlamak için yapmadýysanýz oyunu tekrar yükleyin.
+Yönlendirilmiþ oyuna baðlanýlýyor...
+Oyunun sonu
+Oyuncular:
+Öldürme sýnýrý:
+Puan sýnýrý:
+Ele geçirme sýnýrý:
+Öldürme sýnýrý:
+Aksiyon için herhangi bir tuþa yada fareye basýn:
+Tuþ TAMAM
+Fare Tuþu TAMAM
+Fare Tekerleði TAMAM
+Sola Git
+Saða Git
+Zýpla
+Eðil
+El Bombasý At
+Silah Deðiþtir
+Silahý At
+Þarjörü Doldur
+Ateþ Et
+Uç/jet
+Konuþ
+Yere Yat
+Takým Konuþmasý
+Silah Menüsü
+Çok fazla bot var
+Berabere
+Ýsteniyor...
+DirectInput Tanýmlandý
+Lobby Sunucusu cevap vermiyor. Baðlantýnýzda sorun yoksa tekrar deneyin.
+Sunucularý Listele
+Pingle
+Pingleniyor
+Engellenme zamaný
+Oyuncunun kaç dakika engelleneceðini yazýn. Eðer engelleme süresiz ise boþ býrakýn
+%s oyundan atýldý.
+%s oyundan atýldý ve %s dakika engellendi
+%s oyundan atýldý ve süresiz engellendi
+Oyundan atýlmasý yönünde
+oy kullandýnýz
+Harita seçiminiz:
+Varsayýlan (Son kullanýlan)
+Yeni Profil
+Adýnýzý girin:
+Modül bulunamadý. Lütfen oyunu tekrar yükleyin.
+(TAKIM)
+flood yaptýðý için engellendi
+Oyuna baðlanýyor...
+%s oyundan çýktý
+%s alpha takýmýndan çýktý
+%s bravo takýmýndan çýktý
+%s charlie takýmýndan çýktý
+%s delta takýmýndan çýktý
+Oyun Yöneticilerine eklendi
+yanlýþ þifreyle Oyun Yöneticisi olarak girmeye çalýþtý
+ping 
+ms
+Ortalama Ping: 
+hile yapýyor
+Lobby sunucusu þurdan pingleniyor
+Oyun sunucusu Lobby sunucusuna eklendi @
+Oyun Sunucusu KAYIT EDÝLDÝ
+Ýstemci þurdan yönlendirildi
+(ping)
+Baðlantý kabul edildi...
+Baðlantý þuraya kabul edildi
+Harita
+bulunamadý yada indirilemedi
+Giriliyor...
+Oyuna girmek için bekleniyor...
+Harita oyla
+Oyuncu atma oyla
+Yanlýþ oyun sürümü. Sizin sürümünüz:
+Sunucu Sürümü:
+Sunucu þifresi gerekiyor
+Bu sunucuda engellenmiþsiniz
+Sunucu tamamen dolu
+Yanlýþ harita sürümü belirlendi
+Parça Tesirli El Bombasý!
+Sunucu ile baðlantý kesildi
+%s oyunla baðlantýsý kesildi
+%s oyunla baðlantýsý kestirildi
+%s takým deðiþtiriyor
+%s ping dolayýsý ile atýldý (15 dakika)
+%s flood dolayýsý ile atýldý (5 dakika)
+%s konsoldan oyundan atýldý
+%s 'oyuna girme hilesi' dolayýsý ile atýldý
+%s olasý hile dolayýsý ile atýldý
+%s oyundan çýktý
+%s oylama sonucu oyundan atýldý
+*SUNUCU*
+Sýradaki Harita:
+-> Sunucu Harita Oylamasý Açýldý
+-> Menüden oylamak istediðiniz haritayý seçin
+-> Kalan Süre:
+Sunucu Harita oylamasý kapandý <-
+Sunucudan selamlar...
+Sunucuya giriliyor...
+Sunucu pingleniyor...
+Lobby içerisinden yönlendiriliyor... Lütfen bekleyin
+Hata: Sunucu bulunamadý
+Hata:
+Sunucu kaydediliyor @
+Ýndiriliyor
+sunucular
+Evet
+Hayýr
+sn.
+Hayatta kalma
+Hiç
+Çok Az
+Az
+Ara sýra
+Çok
+En çok
+Oyun Sunucularý:
+- Oyuncular:
+Harita oylarý sayýlýyor
+Hiç bir harita oylanmadý
+Oyun sunucusu ASE'ye eklendi
+Oyunu Baþlat
+Oyuna Gir
+Seçenekler
+Oyuncu
+Çýkýþ
+Oyun Stili:
+Hedef:
+Öldürme sýnýrý:
+Haritalar:
+Döngü
+Botlar:
+Hayatta Kalma Modu
+Gerçekçi Mod
+Rastgele Botlar:
+Bot Takýmý:
+Alpha
+Bravo
+Charlie
+Delta
+Oyunu Baþlat
+Zaman Sýnýrý:
+Oyun sunucusu IP:
+Port:
+Þifre:
+Varsayýlan: 23073
+Oyuna Gir
+Baðlantýyý Kes
+Sunucu Listesi:
+Sunucu Filtreleri:
+Oyuncular:
+Oyun Tipi:
+Diðer:
+Adanmýþ
+Þifresiz
+Bot Yok
+Hayatta Kalma Modu
+Gerçekçi Mod
+Bonus Yok
+Ýsim
+Harita
+Oyuncular
+En Fazla
+Oyun Tipi
+Ping
+Hýz
+Adanmýþ
+Þifre
+Botlar
+Canlanma Tipi
+Bonuslar
+Gerçekçi
+Sistem
+IP
+Port
+AntiHile
+Sunucularý Ýste
+Internet
+Local
+Ýptal
+Pingle
+Filtreler
+Oyun
+Canlanma Zamaný (saniye)
+Normal Canlanma:
+Takým oyunlarýnda en fazla zaman:
+Bonuslar
+Bonus Sýklýðý (0-kapalý):
+Parça Tesirli
+Zýrh
+Silahlar
+Eagles
+Mp5
+Ak74
+Steyr
+Spas 12
+Ruger
+M79
+Barret
+Minimi
+Minigun
+SOCOM
+Býçak
+Testere
+Bazuka
+En Fazla El Bombasý:
+Arkadaþa Zarar Verebilme
+Fare Hassasiyeti (%):
+Að
+Baðlantý:
+LAN
+Ýnternet
+Lobby sunucusuna kaydet
+En Fazla Oyuncu:
+Takýmlarý Dengele
+Oyun Ýsmi:
+Oyun Þifresi:
+Görseller
+Arayüz Stili:
+Oyuncu Göstergesi
+Niþancý Çizgisi
+Botlar
+Zorluk:
+Aptal
+Zayýf
+Normal
+Zor
+Ýmkansýz
+Konuþma
+Ses
+Genel ses (%):
+Müzik sesi (%):
+Patlama Efekti
+Uzaktaki Savaþ Sesleri
+Oyun Müziði:
+Yok
+"Bloody Soil"
+"Gore"
+"Necromancide"
+Müzik:
+Berserker
+Predator
+Flame God
+Oyuncu Ýsmi:
+Oyuncu Renkleri:
+Ten rengi:
+Beyaz
+Kumral
+Siyah
+Saç:
+Asker
+Normal
+Punk
+Mr.T Stili
+Dreadlocks
+Saç:
+Baþlýk:
+Kask
+Þapka
+Yok
+Zincir Stili:
+Yok
+Askeri Künye
+Altýn
+Yedek Silah:
+Kontroller
+Kontrolü deðiþtirmek için tuþa basýn
+Ateþ Et
+Uç/jet
+Zýpla
+Sola Git
+Saða Git
+Eðil
+Yere Yat
+El Bombasý At
+Silahý Deðiþtir
+Silahý At
+Þarjörü Doldur
+Yazýþma
+Takým Yazýþmasý
+Silah Menüsü
+Lütfen kullanýcý profilinizi seçiniz:
+Ekle
+Sil
+Tamam
+Çýkýþ
+Lütfen bilgileri okuyun:
+Kayýt edilmemiþ bir Soldat sürümüne sahipsiniz.
+Eðer bu oyunu sevdiyseniz lütfen destekleyin ve oyunu satýn alýn.
+Oyunu satýn almak ve satýn almanýn oyuna getireceði ekstra özellikler için Satýn Alma Bilgisi tuþuna TIKLAYIN. Daha fazla bilgi için Soldat Ana Sayfasýna bakýn.
+Soldat Ana Sayfasý
+Soldat El Kitabý
+Satýn Alma Bilgisi
+Tamam
+Sonraki haritaya kadar öldürme sayýsý
+Bir haritanýn oynanacaðý süre
+Son harita oynandýktan sonra harita listesinde baþa dön
+Öldükten sonra tekrar canlanma olmayan oyun modu. Herkes bir kiþi yada takým hayatta kaldýktan sonra canlanýr.
+Gerçekçi oyun modu: daha az can, zemine çarpýnca zarar görme, silahlar teper, sadece oyuncunuzun gördüðü kadarýný görürsünüz.
+Ýnternet de yada aðýnýzda olan sunucunun IP numarasýný girin
+Ýnternet de yada aðýnýzda olan sunucunun port numarasýný girin
+Gerekliyse sunucu þifresini girin
+Bütün baðlantýlarý iptal et
+Ýnternet ve aðýnýzdaki Soldat sunucularýnýn listesini alýr
+Bütün aksiyonlarý iptal eder
+Listedeki bütün sunucularýn ping zamanlarýný kontrol eder
+Filtrelenmiþ sunucularý listemelemek için kullanýlýr
+Öldükten sonra tekrar canlanmak için geçen süre
+CTF, takým maçý ve Infiltration için en geç canlanma süresi. Bütün takým arkadaþlarýnýn ayný anda canlanmasý için genel bir canlanma zamanlayýcýsý kullanýlýr ve herkes zamanlayýcý bitene kadar bekler. Zamanlayýcý oyundaki oyuncu sayýsýna göre ayarlanýr.
+Taþýnabilecek maksimum el bombasý sayýsý. Ayný zamanda el bombasý kutularýndaki el bombasý sayýsý. Baþlangýçtaki el bombasý sayýsý = Maksimum el bombasý sayýsýnýn yarýsý.
+Eðer seçilmiþse takým arkadaþlarýnýzý yaralayabilirsiniz
+Aðda yada tek baþýnýza oynuyorsanýz iþaretleyin
+Ýnternet üzerinden oynuyorsanýz iþaretleyin
+Sunucunuzda bulunabilecek en fazla gerçek oyuncu sayýsý
+Eðer iþaretlenmiþse sunucunuz Soldat lobby sunucusuna kayýt edilecek ve internet oyuncularý sunucunuzu sunucu listesinde görebilecek
+Eðer iþaretlenmiþse sunucunuza giren oyuncular oyuncu sayýsý az olan takýma girmeye zorlanacaklar (CTF & Infiltration)
+Sunucunuzun ismi, sunucu listesinde gösterilecek
+Sunucunuz için þifre, böylece sadece þifreyi bilenler girebilecek
+Deðiþik arayüz stilleri. Deðiþtirilmiþ arayüzler Soldat\Custom-Interfaces klasöründe bulunmaktadýr.
+Oyuncularýn baþýnda küçük bir ok simgesi gösterir.
+Oyuncu ve imleç arasýnda bir çizgi gösterir.
+Botlar konuþur
+Oyuncunuzun yanýnda bir patlama olduðunuda ses efekti duyulur
+Sizden çok uzakta meydana gelen çatýþmalarýn seslerini de arkaplandan duyabilirsiniz
+Oyun sýrasýnda çalinacak müzik dosyalarýnýn listesi. Bu müzikler Soldat\music klasöründedir.
+Gömlek ve baþlýk rengi
+Pantolon rengi
+varsayýlan: Sol Fare Tuþu
+varsayýlan: Sað Fare Tuþu
+varsayýlan: W
+varsayýlan: A
+varsayýlan: D
+varsayýlan: S
+varsayýlan: X
+varsayýlan: E
+varsayýlan: Q
+varsayýlan: F
+varsayýlan: R
+varsayýlan: T
+varsayýlan: Y
+varsayýlan: Tab
+Hepsi
+Dolu Olmayan
+Boþ Olmayan
+Boþ ve Dolu Olmayan
+Arkadaþa Ateþ
+Arkadaþa Ateþ þuna ayarlandý
+Oylama yüzdesi
+Oylama yüzdesi þuna ayarlandý
+En fazla oyuncu sayýsý
+En fazla oyuncu sayýsý þuna ayarlandý
+Anti-Hile kapatýldýysa lobby sunucularýný kullanamazsýnýz
+Sabit Silahlar
+Haritalarda sabit silah açýk/kapalý
+Tam Ekran
+Dithering
+Antialiasing
+Bitrate
+Yenileme Hýzý
+Varsayýlan
+Ortalama
+Yüksek
+Windowed
+Kaydet ve Çýk
+Ses Kalitesi
+Düþük
+Normal
+Yüksek
+Ses Çýkýþ Tipi:
+Ses Sürücüsü Listesi:
+Ekrandaki parçalar
+Fazla (varsayýlan)
+Normal
+Az
+Botlarýn Görünme Kalitesi
+Yüksek
+Normal (varsayýlan)
+Düþük
+Çok Düþük
+Mermi izlerini göster
+Hava efektlerini göster
+Ölüm Konsolunu göster
+Dosyalama
+Sunucu
+Internet baðlantý hýzý:
+Oyun portu (varsayýlan 23073):
+En yüksek ping (ms):
+Sunucu karþýlama mesajý (en fazla 50 karakter):
+Sunucu linki (web sitesi yada yöneticilerin e-posta adresi - en fazla 60 karakter):
+Ýstemcileri hiç bir zaman yönlendirme (açýk portlu firewall)
+Sunucuyu All-Seeing Eye (ASE)'ye kaydet
+Sorun Çözme:
+Video Uyumluluðu
+Windowed Fullscreen
+Bonuslarda boþ sayfa düzeltmesi (ATI ekran kartlarý için)
+<UNUSED>
+Grafik Dokuma Filtreleri:
+<UNUSED>
+Nokta
+Doðru (varsayýlan)
+Mipmapping
+Dil:
+Tamam
+Intro oynat
+Klan maçý (takým renkleri takýmdaki ilk oyuncuya göre belirlenir)
+Grafikler
+Ses
+Diðer
+Performans
+Að
+DirectX çalýþmýyor. DirectX 8 veya daha üstünü yüklediðinizden emin olun.
+varsayýlan
+Video ayarlarý sisteminiz veya donanýmýnýz ile uyumlu deðil. Lütfen Tamam'a týklayýn ve farklý bir ayar seçin. Bu uyarýyý dikkate almayýp ayarlarý kaydetmek için Ýptal'e týklayýn.
+Ayar Hatasý
+Ses Çýkýþý bulunamadý.
+Ses Sürücüsü bulunamadý.
+Düzgün çokgenleri göster
+Ýzleyici
+Jet alevi:
+%s izleyici olarak katýldý
+Demo kaydediliyor:
+Demo izleniyor:
+Demo durduruldu
+Kaydediliyor
+Ýstediðiniz uzunlukta demolar kaydedebilmek için lütfen kayýt olun.
+Oynamak deðil sadece izlemek istiyorsanýz bunu iþaretleyin
+%s izleyicilerden ayrýldý
+Dekor bulunamadý:
+Orjinal harita dekorlarý modifiye edilemez. Lütfen tekrar yükleyin.
+Geliþmiþ Mod
+Oyuncular oyuna yedek silahlarla baþlar. Her ikili öldürmede yeni bir silah seçilebilir (Geliþmiþ Mod Seviyesi seçeneði ile ayarlanýr). Oyuncu ayný kural dahilinde öldüðünde silahlarýný kaybeder.
+Yavaþ Çekim
+Eðer seçilmiþse ve bütün oyuncular bir ölümün yakýnýndaysa yavaþ çekim efekti gösterilir.
+Oy:
+Oyla
+Kick
+F12 - Evet   F11 - Hayýr
+%s için oy kullandýnýz
+%s için oyundan atýlmasý yönünde oy kullandýnýz
+%s susturuldu
+%s susturma kaldýrýldý
+Geliþmiþ Mod aktif
+Ýndiriliyor... 
+Baðlandý. Dosya isteniyor
+Dosya indirilemedi
+Oyuna katýlmanýzdan yada son oylamadan itibaren 2 dakika boyunca oylama yapamazsýnýz
+Sarý bayraðý alýn ve takýmýnýzla birlikte tutabildiðiniz kadar tutun. Takým bayraðý tuttuðu her 5 saniye için 1 puan alýr.
+Bayraðý Tut!
+Geliþmiþ Mod Seviyesi:
+Geliþmiþ Mod da yeni bir silah almak için gerekli olan öldürme sayýsý. Ayný zamanda silah kaybetmek için gerekli olan ölme sayýsý.
+Silah modu yüklendi
+Oylama için bir sebep girin:
+Açan:
+Sebep:
+Silah modu
+Ateþ etmek için, eðilirken yada yere yatarken basýlý tutun
+Silahý at tuþuna basýlý tutarak atýlabilir
+Ateþ etmek için basýlý tutun, hareket ederken isabet zorlaþýr
+   Ayarlar      : deðiþim% (þimdiki/varsayýlan)
+    |-Zarar     :
+    |-Mermi     :
+    |-Dolum     :
+    |-Hýz       :
+    |-Tepme     :
+    |-Atýþ      :
+    |-Ýsabet    :
+Niþancý Çizgisi kullanmak bu sunucuda yasaklanmýþ
+Ayarlar tekrar yüklendi
+Silah Yok
+Favorilere Ekle
+Þu an ki sunucuyu favori listesine ekler
+Favorilerden Sil
+Þu an ki sunucuyu favori listesinden siler
+Sunucu silah modu kullanýyor. Saðlama toplamý
+yönetici tarafýndan öldürüldü
+Oyun sonunda otomatik olarak ekran görüntüsü al
+Sponsor reklamý:
+Tarayýcý açýlýyor...
+5 Ýzleyici
+Linki tarayýcýda aç
+Oyun bittikten sonra linki aç
+Low Power Mode
+Desktop
+Çözünürlük
+Varsayýlan tuþlar (oyunun ilk 3 açýlýþýnda gösterilir)
+[A]/[D] sola/saða git
+[W]/[S]/[X] zýpla / eðil / yere yat
+[Sol Fare Tuþu] Ateþ Et!
+[Sað Fare Tuþu] jet kullanýmý
+El bombasý atmak için [E]'yi basýlý tut
+[R] þarjör doldur
+[Q] silahý deðiþtir / [F] silahý at
+[T] konuþ / [Y] takým konuþmasý
+Sunucu Anti-Hile kullanýyor
+Anti-Hile aktifleþtirildi
+Yükleme baþarýsýz
+Anti-Hile korumalý
+%s AntiHile korumasýný çiðnediði için atýldý
+Soldat burada gizlendi. Yeniden açmak için týklayýn.
+Kayýt anahtarýnýz geçerli deðil veya kullanýlýyor.
+Kaydolmak için lütfen kayýt tarihiniz, kayýt için kullandýðýnýz adýnýz veya e-posta adresinizle birlikte support@thd.vg adresine mail atýn.
+Çözünürlük filtreleri:
+Aktif silah:
+Ýnaktif silah:
+Gamma
+Sadece tam ekranda çalýþýr
+XXX
+Kapattýktan sonra Soldat'ý aç
+TeamSpeak'i Entegre Et
+Aksiyon Yakala
+Portal
+Bayrak at
+Giriþ
+Kullanýcý Adý:
+Üyelik Oluþtur
+Þifremi Unuttum
+Beni Hatýrla
+Otomatik Giriþ
+Çevrimdýþý Oyna / Að
+Giriþ için bekleniyor...
+Portal Üyeliðini Düzenle
+Giriþ yapýlýyor...
+Yanlýþ Kullanýcý adý veya Þifre
+Bu üyelik banlandý
+Çok sýk giriþ denemesinde bulunuldu
+Giriþ baþarýlý!
+Baðlantý zaman aþýmýna uðradý
+Kullanýcý adý çok kýsa
+Þifre çok kýsa
+Sunucu HWID'inizi onaylayamadý (Soldat Sürümünüz Farklý Olabilir)
+"%s" nickini baþka bir oyuncu kullanýyor
+Lütfen farklý bir nick deneyin
+Giriþ bilgileri onaylanýyor...
+Lütfen bekleyin...
+Giriþ bilgileriniz sunucu tarafýndan onaylanamadý
+Ekran Görüntüsü için F5'e bas
+Ekran Görüntüsünü kaydetmek için F4'e bas
+Ýptal Etmek için F5'e bas
+%s %s Bayraðý düþürdü
+%s Bayrak düþürüldü!
+Dosya Ýndirmeleri
+Ýlerleme:
+Toplam:
+TeamSpeak
+Hareketli Grafikler
+Çýkýþ yapýp tekrar girmeyi deneyin
+Silah:
+ % 
+Atýþ:
+Vuruþ:
+Ölüm (HS):
+Bu özelliði kullanabilmek için Soldat'ý satýn almalýsýnýz
+(10 saniyede bir güncellenir)
+HS = Kafa vuruþu
+% = Ýsabatlilik
+Hassasiyet:
+Üzgünüm, fakat bu AntiHile korumalý sunucuya giremezsiniz.
+Soldat'ýn Anti-Hile korumasý Windows sürümünüz ile uyumlu deðil.
+AntiHile korumalý sunucularda oynamak için Windows NT/2000/XP/Vista/7 kullanmalýsýnýz
+Çýkýþ
+Render background scenery
+Minimum Canlanma süresi:
+Yeni Minimum Canlanma süresi:
+CTF, Teammatch, Infiltration ve HTF için Minimum canlanma süresi. Oyuncular bu süreden daha kýsa sürede tekrar doðamazlar.
+Minimum canlanma süresi, maximum canlanma süresinden kýsa olmalý
+Maximum canlanma süresi, minimum canlanma süresinden uzun olmalý
+Haritanýn arkaplan renkleri
+Arkaplan renklerini deðiþtir
+Renk 1:
+Renk 2:
+Telsiz menü
+Bayrak fýrlat
+Resmi anasayfa
+Resmi forumlar
+Deathmatch
+Pointmatch
+Rambomatch
+Capture the Flag
+Teammatch
+Infiltration
+Hold the Flag
+Elbise:
+Pantolon:
+þuan geçerli:
+Tuþ
+Sol Mouse Tuþu
+Sað Mouse Tuþu
+Orta Mouse Tuþu
+Mouse Tuþu
+Mouse Tekerleði
+varsayýlan: 
+varsayýlan: V
+Baðlanýlýyor:
+Mesaj gönderildi... Cevap bekleniyor
+Server inceleniyor
+Kýrmýzý
+Mavi
+Bu demo Soldat'ýn bu sürümü ile uyumlu deðil
+Demo oynatýlamadý
+Jet rengi
+Harita arkaplan rengi
+Geliþtirici
+Arkaplan rengini seçilen ile deðiþtir
+Kapat
+Küçült
+Skor
+Takým skorlarý
+Takým
+Admin
+Done...
+Baðlantý, mesaj gönderiliyor...
+Eðer arkaplanda TeamSpeak2 çalýþýyorsa sesli konuþma ile ilgili ekstra özellikler ekler
+Vertical Sync
+FPS Sýnýrlama
+High Resolution Timer
+Diðer:
+0 Oyuncu
+Sýkça Sorulan Sorular
+Otomatik kayýt
+Ses Yok
+Soldat Config sürüm %s
+    |-Gecikme   :
+    |-Yayýlma   :
+    |-Tepme     :
+    |-Güç       :
+    |-Stil      :
+    |-Har. Hýzý :
+Eski demo sürümü
+Arayüzü Geniþlet
+Could not find setup.sif. Loading default interface instead.
+Loading

@@ -1,0 +1,39 @@
+The body file translations.
+
+Thanks to Abortion.
+
+From this thread on the Soldat Forums: http://archive.forums.soldat.pl/topic.php?topic_id=1330
+.........................................................................
+
+Why they are the little structures that make your guy so violently cute. Some useless, all mod’able.
+
+Main body parts
+
+[HELP.GIF]
+
+Other Files: 
+dred.bmp = A single dreadlock 
+kap.bmp = hat 
+helm.bmp = helmet 
+badge.bmp = Rambo band 
+dred.bmp = A single dreadlock
+hair1.bmp = Base hair for dreadlocks 
+hair2.bmp = Punk 
+hair3.bmp = Mr.T style 
+hair4.bmp = normal 
+kamizelka = bulletproof vest (appears over klata) 
+lecistopa = foot while using jet 
+para.bmp = ½ parachute 
+para2.bmp = other ½ parachute 
+para-rope.bmp = parachute rope 
+cygaro = cigarette/cigar 
+lancuch = dogtag’s chain 
+metal = dogtag 
+zlotylacuch = gold chain 
+zloto = gold chain frontal link piece thingy 
+stopa - the foot
+lecistopa - foot with jets on
+
+Beer and walkie do not seem to appear in the game. Perhaps these were tried during it's creation and were just never taken out.
+
+The mirror images of the above are marked with a ‘2’ following the filename. These are used to reverse the appearance; when the player’s left side is viewed.

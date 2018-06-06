@@ -1,0 +1,65 @@
+#! /bin/bash
+# Soldat Server Start/Stop/Restart Script
+# Author: Nick Cooper (http://enesce.com)
+
+case "$1" in
+	start)
+		echo "[*] Starting your Soldat Server..."
+		if [ -e soldatserver ]; then
+			if [ ! -x soldatserver ]; then
+				echo "[*] soldatserver isnt executable... Attempting to fix now..."
+				chmod u+x soldatserver
+			fi
+			if [ -x soldatserver ]; then
+				./soldatserver -d
+			else
+				echo "[*] ERROR: soldatserver isnt executable. Please fix this then start again."
+				exit 4
+			fi
+		else
+			echo "[*] Couldnt find soldatserver. Please re-download your Soldat Server."
+			exit 5
+		fi
+	
+	;;
+	stop)
+		if [ -e ./logs/soldatserver.pid ]; then
+			echo "[*] Stopping your Soldat Server..."
+			if ( kill -TERM `cat ./logs/soldatserver.pid` ); then
+				for c in $(seq 1 300); do
+					if [ -e ./logs/soldatserver.pid ]; then
+						echo -n "."
+						sleep 1
+					fi
+				done
+			fi
+			if [ -e ./logs/soldatserver.pid ]; then
+				echo "[*] Soldatserver would not exit cleanly... Forcing Quit NOW."
+				kill -KILL `cat ./logs/soldatserver.pid`
+				rm ./logs/soldatserver.pid
+				sleep 5
+			else
+				echo "[*] Done."
+			fi
+		else
+			echo "[*] soldatserver.pid not found... Server not online?"
+			exit 7
+		fi
+	;;
+	restart)
+		$0 stop && $0 start || exit 1
+	;;
+	status)
+		if [ -e ./logs/soldatserver.pid ]; then
+			echo "[*] Server appears to be RUNNING."
+			exit 0
+		else
+			echo "[*] Server appears to be DOWN."
+			exit 3
+		fi
+	;;
+	*)
+		echo "Usage: $0 {start|stop|restart|status}"
+		exit 2
+esac
+exit 0

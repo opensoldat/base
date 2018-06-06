@@ -1,0 +1,23 @@
+[BOT]
+Name=Stevie
+Color1=$005AA4ED
+Color2=$00425077
+Skin_Color=$00E6B478
+Hair_Color=$0029899A
+Favourite_Weapon=Steyr AUG
+Secondary_Weapon=0
+Friend=
+Accuracy=55
+Shoot_Dead=1
+Grenade_Frequency=200
+Camping=255
+OnStartUse=255
+Hair=0
+Headgear=1
+Chain=0
+Chat_Frequency=8
+Chat_Kill=Take that
+Chat_Dead=I can't take it!
+Chat_Lowhealth=Medic!
+Chat_SeeEnemy=Charlie!
+Chat_Winning=

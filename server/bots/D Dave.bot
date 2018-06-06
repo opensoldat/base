@@ -1,0 +1,23 @@
+[BOT]
+Name=Dangerous Dave
+Color1=$0030AFB6
+Color2=$00151614
+Skin_Color=$00C78F10
+Hair_Color=$0025426D
+Favourite_Weapon=Ak-74
+Secondary_Weapon=2
+Friend=
+Accuracy=35
+Shoot_Dead=0
+Grenade_Frequency=180
+Camping=128
+OnStartUse=255
+Hair=2
+Headgear=0
+Chain=2
+Chat_Frequency=14
+Chat_Kill=Wicked!
+Chat_Dead=Life is the most precious gift that Jah has given us...
+Chat_Lowhealth=Now da' is wicked!
+Chat_SeeEnemy=Que pasa!?
+Chat_Winning=I am D' Best

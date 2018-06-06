@@ -1,0 +1,23 @@
+[BOT]
+Name=Billy
+Color1=$00514F9D
+Color2=$008E484B
+Skin_Color=$0098754E
+Hair_Color=$0014172C
+Favourite_Weapon=Spas-12
+Secondary_Weapon=1
+Friend=
+Accuracy=24
+Shoot_Dead=0
+Grenade_Frequency=122
+Camping=0
+OnStartUse=255
+Hair=4
+Headgear=2
+Chain=1
+Chat_Frequency=13
+Chat_Kill=I ain't afraid of no man
+Chat_Dead=We're all gonna die.
+Chat_Lowhealth=aaaaaAAAAAAAAA!!!!!
+Chat_SeeEnemy=There's something!
+Chat_Winning=

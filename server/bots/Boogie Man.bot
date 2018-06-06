@@ -1,0 +1,23 @@
+[BOT]
+Name=Boogie Man
+Color1=$00663633
+Color2=$00663633
+Skin_Color=$00ABB45B
+Hair_Color=$00010101
+Favourite_Weapon=Chainsaw
+Secondary_Weapon=0
+Friend=
+Accuracy=0
+Shoot_Dead=0
+Grenade_Frequency=10000
+Camping=255
+OnStartUse=255
+Hair=0
+Headgear=0
+Chain=0
+Chat_Frequency=222
+Chat_Kill=
+Chat_Dead=
+Chat_Lowhealth=
+Chat_SeeEnemy=
+Chat_Winning=

@@ -1,0 +1,46 @@
+* GAME VERSION 1.7.0 *
+
+- Added high resolution textures for default maps
+- Added new map RR
+- Fixed tiling issues on new textures
+- Fixed texture stretching on non multi-textured maps
+
+ctf_Ash
+========
+- Fixed players being able to clip through the bridges #435
+Polybugs:
+- Fixed movement polybugs
+- Fixed nade/flag polybugs
+
+ctf_Cobra
+========
+Polybugs:
+- Fixed movement polybugs
+- Fixed nade/flag polybugs
+
+ctf_Death
+========
+Polybugs:
+- Fixed movement polybugs
+
+ctf_Division
+========
+Polybugs:
+- Fixed movement polybugs
+- Fixed nade/flag polybugs
+
+ctf_Maya
+========
+Polybugs:
+- Fixed movement polybugs
+- Fixed nade/flag polybugs
+
+ctf_Viet
+========
+Polybugs:
+- Fixed movement polybugs
+- Fixed nade/flag polybugs
+
+ctf_Rotten
+==========
+- Fixed dropped weapons not colliding with polygons near top route bridges

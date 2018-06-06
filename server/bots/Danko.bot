@@ -1,0 +1,23 @@
+[BOT]
+Name=Danko
+Color1=$007C7D98
+Color2=$00726141
+Skin_Color=$00E6B478
+Hair_Color=$00354871
+Favourite_Weapon=Ak-74
+Secondary_Weapon=0
+Friend=
+Accuracy=19
+Shoot_Dead=1
+Grenade_Frequency=145
+Camping=128
+OnStartUse=255
+Hair=0
+Headgear=1
+Chain=0
+Chat_Frequency=12
+Chat_Kill=I kill!
+Chat_Dead=Sorry, guys
+Chat_Lowhealth=No...
+Chat_SeeEnemy=See enemy now
+Chat_Winning=OK

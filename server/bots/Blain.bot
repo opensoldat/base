@@ -1,0 +1,23 @@
+[BOT]
+Name=Blain
+Color1=$004165C2
+Color2=$002E6A2B
+Skin_Color=$00E6B478
+Hair_Color=$002E4B78
+Favourite_Weapon=XM214 Minigun
+Secondary_Weapon=0
+Friend=
+Accuracy=21
+Shoot_Dead=0
+Grenade_Frequency=550
+Camping=0
+OnStartUse=2
+Hair=4
+Headgear=2
+Chain=1
+Chat_Frequency=7
+Chat_Kill=
+Chat_Dead=
+Chat_Lowhealth=I ain't got time to bleed!
+Chat_SeeEnemy=Payback time!
+Chat_Winning=Bunch of slack-jawed faggots around here

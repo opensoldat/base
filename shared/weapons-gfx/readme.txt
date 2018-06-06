@@ -1,0 +1,1 @@
+All graphics can be pngs or bmps. Pngs have priority in loading.

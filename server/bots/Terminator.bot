@@ -1,0 +1,23 @@
+[BOT]
+Name=Terminator
+Color1=$00464646
+Color2=$004B3532
+Skin_Color=$00a8caa8
+Hair_Color=$00010101
+Favourite_Weapon=Barrett M82A1
+Secondary_Weapon=0
+Friend=Sarah O'Connor
+Accuracy=0
+Shoot_Dead=0
+Grenade_Frequency=10000
+Camping=255
+OnStartUse=255
+Hair=4
+Headgear=1
+Chain=0
+Chat_Frequency=8
+Chat_Kill=You have been terminated
+Chat_Dead=I'll be back
+Chat_Lowhealth=I'm an obsolete design
+Chat_SeeEnemy=It is time
+Chat_Winning=I'm back

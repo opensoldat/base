@@ -10,7 +10,6 @@ files += glob.glob('server' + os.sep + 'configs' + os.sep + '**', recursive=True
 
 files = sorted(files)
 
-print( len(files))
 arcnames = []
 for i in range(len(files)):
     if files[i].startswith('client' + os.sep):
@@ -21,8 +20,6 @@ for i in range(len(files)):
         arcnames.append(files[i][len('shared' + os.sep):])
     else:
         arcnames.append(files[i])
-    print('file:',files[i])
-    print('arcname:',arcnames[i])
 
 i = 0
 seen = set()
@@ -32,3 +29,7 @@ with zipfile.ZipFile('soldat.smod', 'w') as smod:
             smod.write(file, arcname=arcnames[i])
             seen.add(arcnames[i])
         i += 1
+
+    for zinfo in smod.infolist():
+        zinfo.create_system = 0
+        zinfo.date_time = (1980, 1, 1, 0, 0, 0)

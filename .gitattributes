@@ -5,4 +5,5 @@
 *.cfg text eol=lf
 *.sh text eol=lf
 *.bot text eol=lf
+*.py text eol=lf
 server/serverscript text eol=lf

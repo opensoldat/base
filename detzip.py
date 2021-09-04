@@ -31,5 +31,17 @@ with zipfile.ZipFile('soldat.smod', 'w') as smod:
         i += 1
 
     for zinfo in smod.infolist():
-        zinfo.create_system = 0
+        print('============================');
+        print(zinfo.create_system)
+        print(zinfo.date_time)
+        print(zinfo.volume)
+        print(zinfo.internal_attr)
+        print(zinfo.external_attr)
+        print(zinfo.orig_filename)
+        print(zinfo.filename)
+        print('============================');
+        zinfo.create_system = 10
         zinfo.date_time = (1980, 1, 1, 0, 0, 0)
+        zinfo.volume = 0
+        zinfo.internal_attr = 0
+        zinfo.external_attr = 0

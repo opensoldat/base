@@ -4,6 +4,7 @@
 # Start stripzip.py
 #
 
+#
 # MIT License
 #
 # Copyright (c) 2018 Oliver Bristow
@@ -169,7 +170,7 @@ for i in range(len(files)):
 
 i = 0
 seen = set()
-with zipfile.ZipFile('soldat.smod', 'w') as smod:
+with zipfile.ZipFile('soldat.smod', 'w', compression=zipfile.ZIP_DEFLATED) as smod:
     for file in files:
         if arcnames[i] not in seen:
             smod.write(file, arcname=arcnames[i])
@@ -183,4 +184,5 @@ with zipfile.ZipFile('soldat.smod', 'w') as smod:
         zinfo.internal_attr = 0
         zinfo.external_attr = 0
 
+# Pass complete zip archive to stripzip
 cli(['soldat.smod'])

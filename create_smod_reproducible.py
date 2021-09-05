@@ -171,7 +171,7 @@ for i in range(len(files)):
 
 i = 0
 seen = set()
-with zipfile.ZipFile('soldat.smod', 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=6) as smod:
+with zipfile.ZipFile('soldat.smod', 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=5) as smod:
     for file in files:
         if arcnames[i] not in seen:
             smod.write(file, arcname=arcnames[i])

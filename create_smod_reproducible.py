@@ -150,6 +150,7 @@ def cli(args=None):
 
 import glob
 import zipfile
+import zlib
 
 files = glob.glob('shared' + os.sep + '**', recursive=True)
 files += glob.glob('client' + os.sep + 'configs' + os.sep + '**', recursive=True)
@@ -170,7 +171,7 @@ for i in range(len(files)):
 
 i = 0
 seen = set()
-with zipfile.ZipFile('soldat.smod', 'w', compression=zipfile.ZIP_DEFLATED) as smod:
+with zipfile.ZipFile('soldat.smod', 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=6) as smod:
     for file in files:
         if arcnames[i] not in seen:
             smod.write(file, arcname=arcnames[i])

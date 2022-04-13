@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/HrYPYjh.png" />
   <h2>Soldat</h2>
   <p>Base game content</p>
-  <a href="http://gather.soldat.pl/discord"><img src="https://img.shields.io/discord/234733999879094272.svg" /></a>
+  <a href="https://discord.soldat.pl"><img src="https://img.shields.io/discord/234733999879094272.svg" /></a>
 </div>
 
 ### Instructions

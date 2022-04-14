@@ -1,7 +1,7 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 #
-# Start stripzip.py
+# Start stripzip.py (obtained from https://github.com/Code0x58/python-stripzip)
 #
 
 #
@@ -152,38 +152,24 @@ import glob
 import zipfile
 import zlib
 
-files = glob.glob('shared' + os.sep + '**', recursive=True)
-files += glob.glob('client' + os.sep + 'configs' + os.sep + '**', recursive=True)
-files += glob.glob('server' + os.sep + 'configs' + os.sep + '**', recursive=True)
+def create_reprod_zip(filename, files):
+    with zipfile.ZipFile(filename, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=5) as zipf:
+        for file in files:
+            zipf.write(file)
 
-files = sorted(files)
+        for zinfo in zipf.infolist():
+            zinfo.create_system = 10
+            zinfo.date_time = (1980, 1, 1, 0, 0, 0)
+            zinfo.volume = 0
+            zinfo.internal_attr = 0
+            zinfo.external_attr = 0
 
-arcnames = []
-for i in range(len(files)):
-    if files[i].startswith('client' + os.sep):
-        arcnames.append(files[i][len('client' + os.sep):])
-    elif files[i].startswith('server' + os.sep):
-        arcnames.append(files[i][len('server' + os.sep):])
-    elif files[i].startswith('shared' + os.sep):
-        arcnames.append(files[i][len('shared' + os.sep):])
-    else:
-        arcnames.append(files[i])
+    # Pass complete zip archive to stripzip.
+    cli([filename])
 
-i = 0
-seen = set()
-with zipfile.ZipFile('soldat.smod', 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=5) as smod:
-    for file in files:
-        if arcnames[i] not in seen:
-            smod.write(file, arcname=arcnames[i])
-            seen.add(arcnames[i])
-        i += 1
-
-    for zinfo in smod.infolist():
-        zinfo.create_system = 10
-        zinfo.date_time = (1980, 1, 1, 0, 0, 0)
-        zinfo.volume = 0
-        zinfo.internal_attr = 0
-        zinfo.external_attr = 0
-
-# Pass complete zip archive to stripzip
-cli(['soldat.smod'])
+os.chdir('shared')
+create_reprod_zip('..' + os.sep + 'soldat.smod', glob.glob('**', recursive=True))
+os.chdir('..' + os.sep + 'client')
+create_reprod_zip('..' + os.sep + 'client.zip', glob.glob('**', recursive=True))
+os.chdir('..' + os.sep + 'server')
+create_reprod_zip('..' + os.sep + 'server.zip', glob.glob('**', recursive=True))

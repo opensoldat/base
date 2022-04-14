@@ -1,0 +1,34 @@
+# Workflow to build and upload archives to GitHub release. Triggered by pushing
+# a new tag.
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*.*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Build release files
+        run: |
+          python3 create_smod.py
+          sha1sum soldat.smod >soldat.smod.sha1
+          sha1sum client.zip >client.zip.sha1
+          sha1sum server.zip >server.zip.sha1
+
+      - name: Upload release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            soldat.smod
+            soldat.smod.sha1
+            client.zip
+            client.zip.sha1
+            server.zip
+            server.zip.sha1
+          name: Soldat assets ${{ github.ref }}

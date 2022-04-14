@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@add3486cc3b55d4a5e11c8045058cef96538edc7
 
       - name: Build release files
         run: |
           python3 create_smod.py
 
       - name: Upload release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@fe9a9bd3295828558c7a3c004f23f3bf77d155b2
         with:
           files: |
             soldat.smod

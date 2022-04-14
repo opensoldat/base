@@ -168,8 +168,8 @@ def create_reprod_zip(filename, files):
     cli([filename])
 
 os.chdir('shared')
-create_reprod_zip('..' + os.sep + 'soldat.smod', glob.glob('**', recursive=True))
+create_reprod_zip('..' + os.sep + 'soldat.smod', sorted(glob.glob('**', recursive=True)))
 os.chdir('..' + os.sep + 'client')
-create_reprod_zip('..' + os.sep + 'client.zip', glob.glob('**', recursive=True))
+create_reprod_zip('..' + os.sep + 'client.zip', sorted(glob.glob('**', recursive=True)))
 os.chdir('..' + os.sep + 'server')
-create_reprod_zip('..' + os.sep + 'server.zip', glob.glob('**', recursive=True))
+create_reprod_zip('..' + os.sep + 'server.zip', sorted(glob.glob('**', recursive=True)))

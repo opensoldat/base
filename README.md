@@ -15,9 +15,9 @@ The content of this repository is meant to be bundled into 3 archive files:
 
 ### Instructions
 
-In order to avoid issues with [reliably reproducing archives](https://reproducible-builds.org/docs/archives), the recommended way to download these files is to download them from the [latest release](https://github.com/Soldat/base/releases/latest).
+In order to avoid issues with [reliably reproducing archives](https://reproducible-builds.org/docs/archives), the recommended way to get these files is to download them from the [latest release](https://github.com/Soldat/base/releases/latest).
 
-If you wish to create your own `soldat.smod` file, we provide a Python script `create_smod.py` to help you with this process. Run it from the root directory of this repository via `python3 create_smod.py` and it will create the archives for you. It attempts to produce the same byte-for-byte archive files regardless of what operating system it is run on, but it is potentially fragile due to the issues mentioned previously.
+If you wish to create your own `soldat.smod` file, run `python3 create_smod.py` from the root of this repository, and it will create the archives for you. It attempts to produce the same byte-for-byte archive files regardless of what operating system it is run on, but it is potentially fragile due to the issues mentioned previously.
 
 ### Contributions
 

@@ -7,17 +7,17 @@
 
 ### Layout
 
-The content of this repository is meant to be bundled into 3 archive files:
+The contents of this repository are meant to be bundled into 3 archive files:
 
-- `soldat.smod` - Contains the base game files such as image, audio and animation files. More information in `.smod` files can be found on [this post on the Soldat forums](https://forums.soldat.pl/index.php?topic=44917.0).
-- `client.zip` - Contains client directory structure, configuration files and accessory files.
-- `server.zip` - Contains server directory structure, configuration files and accessory files.
+- *soldat.smod* - Contains the base game files such as image, audio and animation files. More information on *.smod* files can be found in [this post on the Soldat forums](https://forums.soldat.pl/index.php?topic=44917.0).
+- *client.zip* - Contains client directory structure, configuration files and accessory files.
+- *server.zip* - Contains server directory structure, configuration files and accessory files.
 
 ### Instructions
 
-In order to avoid issues with [reliably reproducing archives](https://reproducible-builds.org/docs/archives), the recommended way to get these files is to download them from the [latest release](https://github.com/Soldat/base/releases/latest).
+The recommended way to get these files is to download them from the [latest release](https://github.com/Soldat/base/releases/latest). This way, your *soldat.smod* is guaranteed to have the same SHA1 as the version used by official soldatserver releases (which is required to join servers with `sv_pure` set).
 
-If you wish to create your own `soldat.smod` file, run `python3 create_smod.py` from the root of this repository, and it will create the archives for you. It attempts to produce the same byte-for-byte archive files regardless of what operating system it is run on, but it is potentially fragile due to the issues mentioned previously.
+If you wish to create your own *soldat.smod* file, run `python3 create_smod.py` from the root of this repository, and it will create the archives for you. It attempts to produce the same byte-for-byte archive files regardless of what operating system it is run on, but it is potentially fragile due to its reliance on Python's shipped implementation of zip.
 
 ### Contributions
 

@@ -167,6 +167,9 @@ def create_reprod_zip(filename, files):
     # Pass complete zip archive to stripzip.
     cli([filename])
 
+# NOTE: Conveniently for us, glob.glob ignores dotfiles, so we pick up only
+#       the directories associated with .keep files, not the .keep files
+#       themselves.
 os.chdir('shared')
 create_reprod_zip('..' + os.sep + 'soldat.smod', sorted(glob.glob('**', recursive=True)))
 os.chdir('..' + os.sep + 'client')

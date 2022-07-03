@@ -23,7 +23,6 @@ jobs:
         with:
           files: |
             soldat.smod
-            client.zip
-            server.zip
+            play-regular.ttf
           body: Soldat assets.
           name: Soldat assets ${{ github.ref_name }}

@@ -154,8 +154,8 @@ import zlib
 
 def create_reprod_zip(filename, files):
     with zipfile.ZipFile(filename, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=5) as zipf:
-        for file in files:
-            zipf.write(file)
+        for (file, arcname) in files:
+            zipf.write(file, arcname)
 
         for zinfo in zipf.infolist():
             zinfo.create_system = 10
@@ -170,9 +170,25 @@ def create_reprod_zip(filename, files):
 # NOTE: Conveniently for us, glob.glob ignores dotfiles, so we pick up only
 #       the directories associated with .keep files, not the .keep files
 #       themselves.
+seen = set()
 os.chdir('shared')
-create_reprod_zip('..' + os.sep + 'soldat.smod', sorted(glob.glob('**', recursive=True)))
+files = []
+for file in glob.glob('**', recursive=True):
+    if file not in seen:
+        files.append(('shared' + os.sep + file, file))
+        seen.add(file)
+
 os.chdir('..' + os.sep + 'client')
-create_reprod_zip('..' + os.sep + 'client.zip', sorted(glob.glob('**', recursive=True)))
+for file in glob.glob('**', recursive=True):
+    if file not in seen:
+        files.append(('client' + os.sep + file, file))
+        seen.add(file)
+
 os.chdir('..' + os.sep + 'server')
-create_reprod_zip('..' + os.sep + 'server.zip', sorted(glob.glob('**', recursive=True)))
+for file in glob.glob('**', recursive=True):
+    if file not in seen:
+        files.append(('server' + os.sep + file, file))
+        seen.add(file)
+
+os.chdir('..')
+create_reprod_zip('soldat.smod', sorted(files, key=lambda f: f[1]))

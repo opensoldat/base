@@ -1,0 +1,9 @@
+*.txt text eol=lf
+*.poa text eol=lf
+*.po text eol=lf
+*.ini text eol=lf
+*.cfg text eol=lf
+*.sh text eol=lf
+*.bot text eol=lf
+*.py text eol=lf
+server/serverscript text eol=lf

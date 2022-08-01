@@ -23,3 +23,7 @@ TBD
 ### Licensing
 
 [CC BY 4.0](LICENSE.txt)
+
+### Credits
+
+See an incomplete listing of credits in [Credits.md].

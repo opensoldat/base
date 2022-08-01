@@ -23,5 +23,3 @@ TBD
 ### Licensing
 
 [CC BY 4.0](LICENSE.txt)
-
-*Soldat and all the file formats the program produces are Copyright © 2001-2018 Michal Marcinkowski. All rights reserved.*

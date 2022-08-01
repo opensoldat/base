@@ -26,4 +26,4 @@ TBD
 
 ### Credits
 
-See an incomplete listing of credits in [Credits.md].
+See an incomplete listing of credits in [Credits.md](Credits.md).

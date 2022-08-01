@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://i.imgur.com/HrYPYjh.png" />
-  <h2>opensoldat</h2>
+  <h2>OpenSoldat</h2>
   <p>Base game content</p>
 </div>
 
 ### Instructions
 
-The contents of this repository are meant to be compiled into an archive *soldat.smod*. To learn more about *.smod* files, refer to [this post on Soldat forums](https://forums.soldat.pl/index.php?topic=44917.0). The recommended way to get the files is to download them from the [latest release](https://github.com/opensoldat/base/releases/latest). This way, your *soldat.smod* is guaranteed to have the same SHA1 as the version used by official soldatserver releases (which is required to join servers with `sv_pure` set).
+The contents of this repository are meant to be compiled into an archive *soldat.smod*. To learn more about *.smod* files, refer to [this post on Soldat forums](https://forums.soldat.pl/index.php?topic=44917.0). The recommended way to get the files is to download them from the [latest release](https://github.com/opensoldat/base/releases/latest). This way, your *soldat.smod* is guaranteed to have the same SHA1 as the version used by official OpenSoldatServer releases (which is required to join servers with `sv_pure` set).
 
 If you wish to create your own *soldat.smod* file, run the following commands from the root of this repository:
 ```bash
@@ -24,4 +24,6 @@ TBD
 
 [CC BY 4.0](LICENSE.txt)
 
-*Soldat and all the file formats the program produces are Copyright © 2001-2018 Michal Marcinkowski. All rights reserved.*
+### Credits
+
+See an incomplete listing of credits in [Credits.md].

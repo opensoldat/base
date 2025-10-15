@@ -153,7 +153,7 @@ import zipfile
 import zlib
 
 def create_reprod_zip(filename, files):
-    with zipfile.ZipFile(filename, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=5) as zipf:
+    with zipfile.ZipFile(filename, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=5, strict_timestamps=False) as zipf:
         for (file, arcname) in files:
             zipf.write(file, arcname)
 
